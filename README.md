@@ -8,9 +8,9 @@ Notes and read-only captures from investigating a GrrCon 0xE anniversary admissi
 - [ATtiny1616 badge pinout](output/pdf/attiny1616-badge-pinout.pdf)
 - [Terminal captures](captures/) and [LED/video analysis](captures/video/new-recordings-review.md)
 - [Verified firmware and EEPROM backup](captures/firmware/)
-- [First firmware control-flow analysis](captures/firmware/analysis.md)
+- [Firmware control-flow and Sentinel LED analysis](captures/firmware/analysis.md)
 
-The badge's UART challenge is triggered by PC0. The answer `Rick Astley` reveals the `GrrCON15b` link. Sentinel mode is selected at startup by holding SW1; its distinct LED/watch behavior is still under analysis.
+The badge's UART challenge is triggered by PC0. The answer `Rick Astley` reveals the `GrrCON15b` link. Sentinel mode is selected at startup by holding SW1; its watch display uses a pseudorandom LED routine. The normal animation modes are selected by short SW1 presses, but Sentinel does not display those modes.
 
 ## Read-only firmware capture
 
