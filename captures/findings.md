@@ -1,5 +1,10 @@
 # GrrCon badge investigation
 
+## Printed welcome text, 2026-09-27
+- Attendee paper excerpts describe a scanned badge, a "mostly harmless" threat profile, "Overlords," and a first badge "like a hardware security key." The [official 2026 schedule](https://grrcon.com/schedule/) has an **OverLords** track, and the [presentations](https://grrcon.com/presentations/) emphasize human-versus-AI themes. These words are consistent with event narrative rather than a demonstrated badge instruction.
+- Case-insensitive scan of readable flash strings found none of `overlord`, `harmless`, `threat`, `profile`, `initialized`, `security key`, `curiosity`, `skeptic`, or `scan`. Static string absence does not exclude an encoded clue, but the known USB port does not enumerate or power the MCU and firmware offers only the identified UART challenge.
+- Next check: inspect the complete paper page, especially headings, footnotes, layout, QR codes, and any explicit badge/CTF directions. Keep the conference's separate contests distinct from this admission badge. No basis yet to try these welcome phrases as serial passwords.
+
 ## Confirmed
 - Chip marking: Atmel TINY1616, 20-pin SOIC.
 - TX soldered to physical pin 9 / PB2; GND to physical pin 20.
