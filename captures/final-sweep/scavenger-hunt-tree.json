@@ -1,0 +1,195 @@
+{
+  "sha": "8af44b110212055139f8bd1bb3d652c11a81babc",
+  "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/trees/8af44b110212055139f8bd1bb3d652c11a81babc",
+  "tree": [
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9cecc1d4669ee8af2ca727a5d8cde10cd8b2d7cc",
+      "size": 35141,
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/blobs/9cecc1d4669ee8af2ca727a5d8cde10cd8b2d7cc"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "428f54b121ab0db494a61bbe3dd8e65b01a75315",
+      "size": 180,
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/blobs/428f54b121ab0db494a61bbe3dd8e65b01a75315"
+    },
+    {
+      "path": "scavenger-hunt",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "66079ca09d969b20dc18650adccd6f48110d6549",
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/trees/66079ca09d969b20dc18650adccd6f48110d6549"
+    },
+    {
+      "path": "scavenger-hunt/balloonicorn",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2d893b9120010d096ee52d537735669495baab5d",
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/trees/2d893b9120010d096ee52d537735669495baab5d"
+    },
+    {
+      "path": "scavenger-hunt/balloonicorn/balloonicorn.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6b7515cda3fa75443af205e4a0ddd2eaa974498f",
+      "size": 3486,
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/blobs/6b7515cda3fa75443af205e4a0ddd2eaa974498f"
+    },
+    {
+      "path": "scavenger-hunt/coco",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1dd4e85fb211b1c24485da6286936c13dbe0f2e6",
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/trees/1dd4e85fb211b1c24485da6286936c13dbe0f2e6"
+    },
+    {
+      "path": "scavenger-hunt/coco/coco.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5de227b24c2362566850428dbc10305f3d37ec11",
+      "size": 3643,
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/blobs/5de227b24c2362566850428dbc10305f3d37ec11"
+    },
+    {
+      "path": "scavenger-hunt/endsville",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b41ce2969f20f455c8a22afa65c4741a83d3c544",
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/trees/b41ce2969f20f455c8a22afa65c4741a83d3c544"
+    },
+    {
+      "path": "scavenger-hunt/endsville/endsville.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c0d868d911ebb63a8e1b2af030b0e4e1427eb9bc",
+      "size": 3928,
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/blobs/c0d868d911ebb63a8e1b2af030b0e4e1427eb9bc"
+    },
+    {
+      "path": "scavenger-hunt/finn",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "92c6a3a43701edf1a60880b52a8ef6d36ef1dfb6",
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/trees/92c6a3a43701edf1a60880b52a8ef6d36ef1dfb6"
+    },
+    {
+      "path": "scavenger-hunt/finn/finn.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f5a84a803019ffd27dac4c2d9b7f5b9b3bcd668",
+      "size": 3646,
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/blobs/8f5a84a803019ffd27dac4c2d9b7f5b9b3bcd668"
+    },
+    {
+      "path": "scavenger-hunt/gir",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f16202b9c773ebf3ac0479bc0ac882e6ca7ee32f",
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/trees/f16202b9c773ebf3ac0479bc0ac882e6ca7ee32f"
+    },
+    {
+      "path": "scavenger-hunt/gir/gir.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "70b28549b4bb848aa1050cc1c8efb2a267943c2c",
+      "size": 3589,
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/blobs/70b28549b4bb848aa1050cc1c8efb2a267943c2c"
+    },
+    {
+      "path": "scavenger-hunt/gumball",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c3de163bc7b8ae6931ed96b7baf2c500206288a5",
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/trees/c3de163bc7b8ae6931ed96b7baf2c500206288a5"
+    },
+    {
+      "path": "scavenger-hunt/gumball/gumball.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62655e7815d06416055b2e5d771f0808207e1f4f",
+      "size": 3814,
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/blobs/62655e7815d06416055b2e5d771f0808207e1f4f"
+    },
+    {
+      "path": "scavenger-hunt/ice_king",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cb360587f66d2a0d82f46411643b36e1f1d1c7fe",
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/trees/cb360587f66d2a0d82f46411643b36e1f1d1c7fe"
+    },
+    {
+      "path": "scavenger-hunt/ice_king/ice_king.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1fbe214cc4a987028a5ff2fd11be54830720faf",
+      "size": 3868,
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/blobs/e1fbe214cc4a987028a5ff2fd11be54830720faf"
+    },
+    {
+      "path": "scavenger-hunt/over9000",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5e60e5a835e1737d3b444ffb5817e9d26a9f6a79",
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/trees/5e60e5a835e1737d3b444ffb5817e9d26a9f6a79"
+    },
+    {
+      "path": "scavenger-hunt/over9000/over9000.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ee2d539cb15e2713a5da7d177a5eafbffe7bf5d4",
+      "size": 4125,
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/blobs/ee2d539cb15e2713a5da7d177a5eafbffe7bf5d4"
+    },
+    {
+      "path": "scavenger-hunt/pikachu",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3fde98d86bd7ac5e6d2d71f8f77d7f687638bde5",
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/trees/3fde98d86bd7ac5e6d2d71f8f77d7f687638bde5"
+    },
+    {
+      "path": "scavenger-hunt/pikachu/pikachu.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42d911ca1804b19144c3f069d15d8f063dee0cab",
+      "size": 3814,
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/blobs/42d911ca1804b19144c3f069d15d8f063dee0cab"
+    },
+    {
+      "path": "scavenger-hunt/portal",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "47f99a87c553453ab5d40c9f1e84712b144c759a",
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/trees/47f99a87c553453ab5d40c9f1e84712b144c759a"
+    },
+    {
+      "path": "scavenger-hunt/portal/portal.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35c6410d0012248900faa160432fea205a43ff8a",
+      "size": 3143,
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/blobs/35c6410d0012248900faa160432fea205a43ff8a"
+    },
+    {
+      "path": "scavenger-hunt/rose_quartz",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7f929e22f3ae4fb31debab270f4900766ffae8d3",
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/trees/7f929e22f3ae4fb31debab270f4900766ffae8d3"
+    },
+    {
+      "path": "scavenger-hunt/rose_quartz/rose_quartz.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "373178f31f0b1f7af117dc51babb72f1ce5a0a44",
+      "size": 4039,
+      "url": "https://api.github.com/repos/Hak4Kidz/scavenger-hunt/git/blobs/373178f31f0b1f7af117dc51babb72f1ce5a0a44"
+    }
+  ],
+  "truncated": false
+}

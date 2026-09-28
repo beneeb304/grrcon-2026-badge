@@ -1,0 +1,1204 @@
+{
+  "sha": "5063eee2a69a672b6f9392de6a2dd3d96cfe8224",
+  "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/5063eee2a69a672b6f9392de6a2dd3d96cfe8224",
+  "tree": [
+    {
+      "path": ".DS_Store",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a01b56d3c83956079121e2d7c6c722ca0cf89fd6",
+      "size": 10244,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/a01b56d3c83956079121e2d7c6c722ca0cf89fd6"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9bea4330f055c418ce73df7a354fd5c29ead0631",
+      "size": 11,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/9bea4330f055c418ce73df7a354fd5c29ead0631"
+    },
+    {
+      "path": "Hak4Kidz 2019 Badge.pptx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c53c9b08c52eafdb7b31da2b377b92ea219d292e",
+      "size": 52873484,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/c53c9b08c52eafdb7b31da2b377b92ea219d292e"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "08581a05cdcf424fbdf08c276afcd45b4b404865",
+      "size": 73,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/08581a05cdcf424fbdf08c276afcd45b4b404865"
+    },
+    {
+      "path": "hardware",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "45d4db1bd93c35578d0b9ab83bb4d7bb65d57bd6",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/45d4db1bd93c35578d0b9ab83bb4d7bb65d57bd6"
+    },
+    {
+      "path": "hardware/2019 Badge Project Schematic.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac29911d84f5d128eed3d0f22f8ff25bfbb1d150",
+      "size": 185764,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/ac29911d84f5d128eed3d0f22f8ff25bfbb1d150"
+    },
+    {
+      "path": "hardware/AN_134_FTDI_Drivers_Installation_Guide_for_MAC_OSX.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7900861d14cf6e8834d2d19db86fb5e329ddc97",
+      "size": 1136658,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/f7900861d14cf6e8834d2d19db86fb5e329ddc97"
+    },
+    {
+      "path": "hardware/Hak4Kidz 2019 Badge BOM.xlsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c1a5d667efad3b145d472e5dbd214bad722ad2f",
+      "size": 14335,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/9c1a5d667efad3b145d472e5dbd214bad722ad2f"
+    },
+    {
+      "path": "hardware/Kicad Files",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b2ce03c2b978b8db14e276dc61f95a978e71e8db",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/b2ce03c2b978b8db14e276dc61f95a978e71e8db"
+    },
+    {
+      "path": "hardware/Kicad Files/Hak4Kidz2019-cache.lib",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e573d0a61324c80862b68c1f70af4e64bad6a231",
+      "size": 15951,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/e573d0a61324c80862b68c1f70af4e64bad6a231"
+    },
+    {
+      "path": "hardware/Kicad Files/Hak4Kidz2019-rescue.dcm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f3ed79b79731d3d1ca39cfaa9a2dda60617b802",
+      "size": 48,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/5f3ed79b79731d3d1ca39cfaa9a2dda60617b802"
+    },
+    {
+      "path": "hardware/Kicad Files/Hak4Kidz2019-rescue.lib",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c971de6e75c4ebbcc2ae7f829cc31475b0d95d7",
+      "size": 6114,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/2c971de6e75c4ebbcc2ae7f829cc31475b0d95d7"
+    },
+    {
+      "path": "hardware/Kicad Files/Hak4Kidz2019.kicad_pcb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cc52ad49e66da23c4ed033d73efd8042a3514486",
+      "size": 4813662,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/cc52ad49e66da23c4ed033d73efd8042a3514486"
+    },
+    {
+      "path": "hardware/Kicad Files/Hak4Kidz2019.pro",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54825476ea62a021cc68defbfc71418412e6b89d",
+      "size": 890,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/54825476ea62a021cc68defbfc71418412e6b89d"
+    },
+    {
+      "path": "hardware/Kicad Files/Hak4Kidz2019.sch",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68fd69f13f54f9491b7114e047844f8ffd8e750b",
+      "size": 42852,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/68fd69f13f54f9491b7114e047844f8ffd8e750b"
+    },
+    {
+      "path": "hardware/Kicad Files/fp-lib-table",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd38c44f64989e1344ab26ebea9703139db1f4b3",
+      "size": 98,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/bd38c44f64989e1344ab26ebea9703139db1f4b3"
+    },
+    {
+      "path": "hardware/Kicad Files/sym-lib-table",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e2b4f3bf163ef05d3d34ed6db8b88dcc5626544",
+      "size": 128,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/6e2b4f3bf163ef05d3d34ed6db8b88dcc5626544"
+    },
+    {
+      "path": "hardware/Part_U1-esp32-wroom-32_datasheet_en.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "08b5a5d5c8f0e19421ded4cc4909d617d1ad991f",
+      "size": 522006,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/08b5a5d5c8f0e19421ded4cc4909d617d1ad991f"
+    },
+    {
+      "path": "hardware/Part_U2-DS_FT231X datasheet.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7fa7f2c0fea5a943e048f38c567957e80bf1a506",
+      "size": 845031,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/7fa7f2c0fea5a943e048f38c567957e80bf1a506"
+    },
+    {
+      "path": "hardware/Part_U3-31FL3236.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a7a527eade8f9e2ede52048f3413c40f7d50bdc",
+      "size": 1906394,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/0a7a527eade8f9e2ede52048f3413c40f7d50bdc"
+    },
+    {
+      "path": "software",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cd46906f474b11575213e7d2256dba783f1f50f2",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/cd46906f474b11575213e7d2256dba783f1f50f2"
+    },
+    {
+      "path": "software/Arduino",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "841728cf2cd5d0acd24618e1f94c09f5c40d0252",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/841728cf2cd5d0acd24618e1f94c09f5c40d0252"
+    },
+    {
+      "path": "software/Arduino/.DS_Store",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "923f3eeaf64825f9d775dd271e0c7d384c6bf380",
+      "size": 10244,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/923f3eeaf64825f9d775dd271e0c7d384c6bf380"
+    },
+    {
+      "path": "software/Arduino/2019_Tyro_Badge",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "eb40baaf2a3e1fe0c2a1e536ef48f140609bf3b3",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/eb40baaf2a3e1fe0c2a1e536ef48f140609bf3b3"
+    },
+    {
+      "path": "software/Arduino/2019_Tyro_Badge/2019_Tyro_Badge.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d91077375e8efd49501e05e16100c0f571e8080",
+      "size": 16258,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/7d91077375e8efd49501e05e16100c0f571e8080"
+    },
+    {
+      "path": "software/Arduino/2019_Tyro_Badge/Red_October18pt7b.h",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "8759a7835e6a1891b01956a2a8a543c38adb64f9",
+      "size": 41520,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/8759a7835e6a1891b01956a2a8a543c38adb64f9"
+    },
+    {
+      "path": "software/Arduino/Hak4Kidz2019Test",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "08bacefc5e16586bd37fdcc8fe3accb995a9e3e3",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/08bacefc5e16586bd37fdcc8fe3accb995a9e3e3"
+    },
+    {
+      "path": "software/Arduino/Hak4Kidz2019Test/Hak4Kidz2019Test.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db31ff84bafaad2400ddbc67a54c7ba7711526b6",
+      "size": 2475,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/db31ff84bafaad2400ddbc67a54c7ba7711526b6"
+    },
+    {
+      "path": "software/Arduino/libraries",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "63a04dc3724cc819d4a4fa747626612eef8e3ed2",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/63a04dc3724cc819d4a4fa747626612eef8e3ed2"
+    },
+    {
+      "path": "software/Arduino/libraries/.DS_Store",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b203b3603b1d412d2fa73c5a0e434821121ce1fb",
+      "size": 10244,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/b203b3603b1d412d2fa73c5a0e434821121ce1fb"
+    },
+    {
+      "path": "software/Arduino/libraries/PigpenCipher20pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b0cda00feb3655727d98f41a82afeb63d257516",
+      "size": 57119,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/4b0cda00feb3655727d98f41a82afeb63d257516"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "51976d9afb82d314063702ade7278e5b113c8729",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/51976d9afb82d314063702ade7278e5b113c8729"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/.gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "469bb73707fd20665c214600746906f360db45cf",
+      "size": 112,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/469bb73707fd20665c214600746906f360db45cf"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/.travis.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d0836629f6d8704722a5a75746252a88e63143eb",
+      "size": 679,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/d0836629f6d8704722a5a75746252a88e63143eb"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Adafruit_GFX.cpp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5dde6c45cdfafd9aaee00aa670ed471fba8b2919",
+      "size": 73411,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/5dde6c45cdfafd9aaee00aa670ed471fba8b2919"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Adafruit_GFX.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5af57aa41ff1e59126c9f91112bb9a0535da7736",
+      "size": 8747,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/5af57aa41ff1e59126c9f91112bb9a0535da7736"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Adafruit_SPITFT.cpp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d79f892e20c3006dff90156c41c060a0f7802a4",
+      "size": 85783,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/3d79f892e20c3006dff90156c41c060a0f7802a4"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Adafruit_SPITFT.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc81d7dc4cffba296b7c14953b6bbcf8eed46bfe",
+      "size": 23265,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/bc81d7dc4cffba296b7c14953b6bbcf8eed46bfe"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Adafruit_SPITFT_Macros.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fcd6253e650e03b96f7b9c766a82b53090eba76b",
+      "size": 329,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/fcd6253e650e03b96f7b9c766a82b53090eba76b"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a9e97bfe464e50f47f76e4bf029e7281d8ba3e7e",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/a9e97bfe464e50f47f76e4bf029e7281d8ba3e7e"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeMono12pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94ecb883a817def610794a0ea6cd3e92ff1f7b1c",
+      "size": 14395,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/94ecb883a817def610794a0ea6cd3e92ff1f7b1c"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeMono18pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c605d296b83c07882e3e47b7f24c9c79f77f68e9",
+      "size": 24441,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/c605d296b83c07882e3e47b7f24c9c79f77f68e9"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeMono24pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c8bd151d6a03e4945164be6d11ebedbb1a388e6",
+      "size": 40283,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/4c8bd151d6a03e4945164be6d11ebedbb1a388e6"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeMono9pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c82d7869c5a235593acdb299f708c276c09999f3",
+      "size": 10592,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/c82d7869c5a235593acdb299f708c276c09999f3"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeMonoBold12pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ad9d1a4f46c41ce0ebd5dd9a0998b6c4f33f8cb",
+      "size": 16081,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/4ad9d1a4f46c41ce0ebd5dd9a0998b6c4f33f8cb"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeMonoBold18pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36e0be05d7b4a41071ec24001aa26a5e5d40085d",
+      "size": 28925,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/36e0be05d7b4a41071ec24001aa26a5e5d40085d"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeMonoBold24pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aa0dcd0451783fceffe23b39a5ad76a307f4af31",
+      "size": 47327,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/aa0dcd0451783fceffe23b39a5ad76a307f4af31"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeMonoBold9pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "75b1766b2c800389d5fad1269e804bd196910cbb",
+      "size": 11574,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/75b1766b2c800389d5fad1269e804bd196910cbb"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeMonoBoldOblique12pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cc3ecb2716aaae596188ca07be5ad40ed805e658",
+      "size": 17570,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/cc3ecb2716aaae596188ca07be5ad40ed805e658"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeMonoBoldOblique18pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc4f20ea59885b7b81cfe87056fbaa910a3cf7dc",
+      "size": 31692,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/bc4f20ea59885b7b81cfe87056fbaa910a3cf7dc"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeMonoBoldOblique24pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a2bbbdf36f497c98b677522948e1f4d60de371a7",
+      "size": 52530,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/a2bbbdf36f497c98b677522948e1f4d60de371a7"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeMonoBoldOblique9pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b530723a345c1548fb64a04fd48f5b0dcfab2c43",
+      "size": 12639,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/b530723a345c1548fb64a04fd48f5b0dcfab2c43"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeMonoOblique12pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83a9a7708fba5e87487786cedf9788a24bf0a38a",
+      "size": 15954,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/83a9a7708fba5e87487786cedf9788a24bf0a38a"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeMonoOblique18pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1979e7203d07779ceb7015d1fb2c1e96106e1f03",
+      "size": 27096,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/1979e7203d07779ceb7015d1fb2c1e96106e1f03"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeMonoOblique24pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a5592c29c3ef4010c882dd96759823eaee249db",
+      "size": 45214,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/8a5592c29c3ef4010c882dd96759823eaee249db"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeMonoOblique9pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a00ca829060be6142602397f090ab76b1ac31544",
+      "size": 11477,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/a00ca829060be6142602397f090ab76b1ac31544"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSans12pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9ecbb8fb04d9ad065a8bd7527d2b4277e60d2eeb",
+      "size": 17535,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/9ecbb8fb04d9ad065a8bd7527d2b4277e60d2eeb"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSans18pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3fdc5911ef467cb2e4f7549143cb5d27943fd00b",
+      "size": 31039,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/3fdc5911ef467cb2e4f7549143cb5d27943fd00b"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSans24pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff2d174fbd1ab4ec951c149b94102beea653bdba",
+      "size": 51419,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/ff2d174fbd1ab4ec951c149b94102beea653bdba"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSans9pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f006a18982601f18c9f2a6842858401854fdcf4",
+      "size": 12478,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/1f006a18982601f18c9f2a6842858401854fdcf4"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSansBold12pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0922be279137557b1e21dd78977ac4b35f7fe15",
+      "size": 18893,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/e0922be279137557b1e21dd78977ac4b35f7fe15"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSansBold18pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5927cde4479a77c5cbc537874a56e57d6b03510",
+      "size": 33181,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/d5927cde4479a77c5cbc537874a56e57d6b03510"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSansBold24pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aadc9a1dc45fd0a09fc3f166abb21a3f313cb17c",
+      "size": 55627,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/aadc9a1dc45fd0a09fc3f166abb21a3f313cb17c"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSansBold9pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aeea463e7b0a17599fdd88a8e23ece7ea67b8e6b",
+      "size": 12992,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/aeea463e7b0a17599fdd88a8e23ece7ea67b8e6b"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSansBoldOblique12pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fabbad3f497e31df7aa740014f697da2e017a1f4",
+      "size": 21080,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/fabbad3f497e31df7aa740014f697da2e017a1f4"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSansBoldOblique18pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "79c748c785c68ecf362363599c7e7f6bb415e270",
+      "size": 37952,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/79c748c785c68ecf362363599c7e7f6bb415e270"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSansBoldOblique24pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea65f9b8d210b5d5ee0a0e853b72dc42ac1db60b",
+      "size": 63705,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/ea65f9b8d210b5d5ee0a0e853b72dc42ac1db60b"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSansBoldOblique9pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6250aca3e6ce64513b92a263fb4d00f98a4ebadb",
+      "size": 14469,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/6250aca3e6ce64513b92a263fb4d00f98a4ebadb"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSansOblique12pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "efdbd8d11044cbbf3e11103039fba4683ad0e2fe",
+      "size": 19992,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/efdbd8d11044cbbf3e11103039fba4683ad0e2fe"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSansOblique18pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2a18a3f6aee3f4a1d8468b7610b32f53b33ed71d",
+      "size": 35958,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/2a18a3f6aee3f4a1d8468b7610b32f53b33ed71d"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSansOblique24pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c8c8ab024ccc9b79615136c42510cebf4834861",
+      "size": 59762,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/4c8c8ab024ccc9b79615136c42510cebf4834861"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSansOblique9pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18a6cbe1e340bdb218e47b3e8357c0994be4e7d3",
+      "size": 13865,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/18a6cbe1e340bdb218e47b3e8357c0994be4e7d3"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSerif12pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "48ad3da69bc6e0cee84ca21708dcb72596b97b04",
+      "size": 16738,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/48ad3da69bc6e0cee84ca21708dcb72596b97b04"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSerif18pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d19dd1839032e449971de564ee488fae706c7e3",
+      "size": 29360,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/7d19dd1839032e449971de564ee488fae706c7e3"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSerif24pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99ff3f4971f97bd3629ffd961c12dd55412868e3",
+      "size": 48626,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/99ff3f4971f97bd3629ffd961c12dd55412868e3"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSerif9pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cdb20c77b8bf6e53bc33a3dbefb3932d1f8941c7",
+      "size": 12051,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/cdb20c77b8bf6e53bc33a3dbefb3932d1f8941c7"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSerifBold12pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d499811fae446a53f33e6fb645e7a14bf24d49b",
+      "size": 17694,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/1d499811fae446a53f33e6fb645e7a14bf24d49b"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSerifBold18pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "11d3c7ea2de426274945ee7b6c7a76635dc39b49",
+      "size": 31768,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/11d3c7ea2de426274945ee7b6c7a76635dc39b49"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSerifBold24pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0eb2d0b1a8100b4c5872c064c40f7ae9e393df44",
+      "size": 53806,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/0eb2d0b1a8100b4c5872c064c40f7ae9e393df44"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSerifBold9pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52dbe36e10097bf8c44f5549a5bf9f3688298f58",
+      "size": 12577,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/52dbe36e10097bf8c44f5549a5bf9f3688298f58"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSerifBoldItalic12pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f674e98dbc8baa5850a60cb92c991a5b9f4460b",
+      "size": 19248,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/1f674e98dbc8baa5850a60cb92c991a5b9f4460b"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSerifBoldItalic18pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e24eea61fef79d11da36e4cb7cf5a819b00c7d44",
+      "size": 34664,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/e24eea61fef79d11da36e4cb7cf5a819b00c7d44"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSerifBoldItalic24pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fcb857ef9f4b2dc5978a6268312469d57f8a2e89",
+      "size": 56292,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/fcb857ef9f4b2dc5978a6268312469d57f8a2e89"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSerifBoldItalic9pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47711ee7ccc8964d588d739258d866cbe3757f88",
+      "size": 13521,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/47711ee7ccc8964d588d739258d866cbe3757f88"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSerifItalic12pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52332a7ad33c03bfede514a152a4056e9d928051",
+      "size": 17662,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/52332a7ad33c03bfede514a152a4056e9d928051"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSerifItalic18pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "666ae7eb27c1e3845833a301a701e90d42b63191",
+      "size": 30914,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/666ae7eb27c1e3845833a301a701e90d42b63191"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSerifItalic24pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "75da1e057f8d95d67b65cdce6bc3e566e215990e",
+      "size": 52164,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/75da1e057f8d95d67b65cdce6bc3e566e215990e"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/FreeSerifItalic9pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "34e6b8df21e58bf4d09b6b08734f27f9e570d78b",
+      "size": 12593,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/34e6b8df21e58bf4d09b6b08734f27f9e570d78b"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/Org_01.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac41f31cd274d4855a6bc5ded40bbe568e3adbe7",
+      "size": 7143,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/ac41f31cd274d4855a6bc5ded40bbe568e3adbe7"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/Picopixel.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0ed65437432c7a170812c1d496e2caaf3fb7b651",
+      "size": 6569,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/0ed65437432c7a170812c1d496e2caaf3fb7b651"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/Tiny3x3a2pt7b.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d77676c21a81ab32d8303e036d82ffe2c0f9490a",
+      "size": 6882,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/d77676c21a81ab32d8303e036d82ffe2c0f9490a"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/Fonts/TomThumb.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dad420dcdbe0bdbb527f5a9f8ce338e2fffc7833",
+      "size": 24111,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/dad420dcdbe0bdbb527f5a9f8ce338e2fffc7833"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6b2773c5db88584f4a6ea1076d06e390e0e2ffc",
+      "size": 3145,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/e6b2773c5db88584f4a6ea1076d06e390e0e2ffc"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/examples",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "325a754a4b5cfe0e1f60b4feb599d82a232b70b5",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/325a754a4b5cfe0e1f60b4feb599d82a232b70b5"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/examples/mock_ili9341",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5bca8fd7285d8b6d208cdac0ad45795403c87c1f",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/5bca8fd7285d8b6d208cdac0ad45795403c87c1f"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/examples/mock_ili9341/mock_ili9341.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d1418390409c4a7c43ec2ceb2240d61349187120",
+      "size": 9790,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/d1418390409c4a7c43ec2ceb2240d61349187120"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/fontconvert",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0f2155f7498150fa7e1fd71e4d5b80cab2addd83",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/0f2155f7498150fa7e1fd71e4d5b80cab2addd83"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/fontconvert/Makefile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47f5a0e15a5a1587cd379507a1b5cfc8bbd9299f",
+      "size": 236,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/47f5a0e15a5a1587cd379507a1b5cfc8bbd9299f"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/fontconvert/fontconvert.c",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8a6ac94423986b24c616347cf679f851d4e250d",
+      "size": 10131,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/b8a6ac94423986b24c616347cf679f851d4e250d"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/fontconvert/fontconvert_win.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19328417f131d6453523b47377e51c289f6a2fd6",
+      "size": 3831,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/19328417f131d6453523b47377e51c289f6a2fd6"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/fontconvert/makefonts.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35f07ea52262e90c56d00f83de5a858c6821383a",
+      "size": 1221,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/35f07ea52262e90c56d00f83de5a858c6821383a"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/gfxfont.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c691de645b4dfa681a75906f28eb2d1c95505289",
+      "size": 1168,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/c691de645b4dfa681a75906f28eb2d1c95505289"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/glcdfont.c",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f88bd23a781d6376abbd2815dea9dcbc2508ae9",
+      "size": 8486,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/6f88bd23a781d6376abbd2815dea9dcbc2508ae9"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/library.properties",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06532421f875a49dbee9940d982ab94e6143914a",
+      "size": 388,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/06532421f875a49dbee9940d982ab94e6143914a"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit-gfx-library/license.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7492e93a134119acae08098a6f7fe1e81d1b3122",
+      "size": 1344,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/7492e93a134119acae08098a6f7fe1e81d1b3122"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1a0568921c9540452bdd7e77a9a0783bb2823eb0",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/1a0568921c9540452bdd7e77a9a0783bb2823eb0"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/.github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "df501354fbef23bbb31a698168de903c43ad5ac0",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/df501354fbef23bbb31a698168de903c43ad5ac0"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/.github/ISSUE_TEMPLATE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f0e26146fa935ca718cdc141f83555bbd3e0c067",
+      "size": 2624,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/f0e26146fa935ca718cdc141f83555bbd3e0c067"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/.github/PULL_REQUEST_TEMPLATE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b641eb862c05e126ef698221ffebe8f33ec1a5a",
+      "size": 1415,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/7b641eb862c05e126ef698221ffebe8f33ec1a5a"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/.gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2a26c038308d8060906ef1b97f4e20028af12c8",
+      "size": 77,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/c2a26c038308d8060906ef1b97f4e20028af12c8"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/.travis.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be046babcde1b97cfe6f9c0df648ec5d98ef37e4",
+      "size": 998,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/be046babcde1b97cfe6f9c0df648ec5d98ef37e4"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/Adafruit_ILI9341.cpp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47871de29aff6d52f08da6579327df2e36a021ac",
+      "size": 11657,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/47871de29aff6d52f08da6579327df2e36a021ac"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/Adafruit_ILI9341.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "322893a534af3021626e8724efb7b51a238aa5d5",
+      "size": 6652,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/322893a534af3021626e8724efb7b51a238aa5d5"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8da2d1dd5239b07b7b2db54bf961972bff27fa62",
+      "size": 1801,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/8da2d1dd5239b07b7b2db54bf961972bff27fa62"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "daebb99e622d443c1b70eb7fe2cce1c12a8f01c1",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/daebb99e622d443c1b70eb7fe2cce1c12a8f01c1"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/breakouttouchpaint",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cae441411f61e42f5dde8af270ac17e66c9b25c8",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/cae441411f61e42f5dde8af270ac17e66c9b25c8"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/breakouttouchpaint/.esp8266.test.skip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/breakouttouchpaint/breakouttouchpaint.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9022f2419ff8cc02507fcb1cdb08335ba894b80d",
+      "size": 4952,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/9022f2419ff8cc02507fcb1cdb08335ba894b80d"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/graphicstest",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "28959295964cee6d29065279b76c128d974c5ee9",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/28959295964cee6d29065279b76c128d974c5ee9"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/graphicstest/graphicstest.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3154d4095463342897da976363ddae8e9fa0db53",
+      "size": 9789,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/3154d4095463342897da976363ddae8e9fa0db53"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/graphicstest_featherwing",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e8c8131ebe3bae5aa1376ba46ec567571da9ee14",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/e8c8131ebe3bae5aa1376ba46ec567571da9ee14"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/graphicstest_featherwing/.mega2560.test.skip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/graphicstest_featherwing/graphicstest_featherwing.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b320df5cbf859fcecceeb8c261633f5e23744667",
+      "size": 10551,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/b320df5cbf859fcecceeb8c261633f5e23744667"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/graphicstest_pyportal",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "999de9aafce63be5ea41162bf90d34a57c69858d",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/999de9aafce63be5ea41162bf90d34a57c69858d"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/graphicstest_pyportal/graphicstest_pyportal.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d913f659f8d57af3f1cc9d5fb7465147d7675669",
+      "size": 9568,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/d913f659f8d57af3f1cc9d5fb7465147d7675669"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/mandelbrot",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b107facc45b82d521680eedbac407edaa9c4cde7",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/b107facc45b82d521680eedbac407edaa9c4cde7"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/mandelbrot/mandelbrot.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6b8100503678b9960ffdff10f83830d5da9e0890",
+      "size": 3001,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/6b8100503678b9960ffdff10f83830d5da9e0890"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/onoffbutton",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8e2466fce925a06d5ceb1ce4c8d7a6b703332a09",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/8e2466fce925a06d5ceb1ce4c8d7a6b703332a09"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/onoffbutton/onoffbutton.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3365d3385d7eedaa006804ccd5c771c7cb3e7304",
+      "size": 3123,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/3365d3385d7eedaa006804ccd5c771c7cb3e7304"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/onoffbutton_breakout",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4c04c24e377385c05b7e2313bbe034d9bcf3685d",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/4c04c24e377385c05b7e2313bbe034d9bcf3685d"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/onoffbutton_breakout/.esp8266.test.skip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/onoffbutton_breakout/onoffbutton_breakout.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aa8cb9992fbb3ca23c2c67959d5a7d24401fa36b",
+      "size": 3431,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/aa8cb9992fbb3ca23c2c67959d5a7d24401fa36b"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/pictureEmbed",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "31cca5b0e20a3594ab1f36b7c9924110e810ed0f",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/31cca5b0e20a3594ab1f36b7c9924110e810ed0f"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/pictureEmbed/dragon.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab61bb77c996d45f1e45fbae37f12d43601de097",
+      "size": 63438,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/ab61bb77c996d45f1e45fbae37f12d43601de097"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/pictureEmbed/pictureEmbed.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c5475756d0ee8dd81690ea590b8a340db9f9604",
+      "size": 2515,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/5c5475756d0ee8dd81690ea590b8a340db9f9604"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/pyportal_boing",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0c4da9ab0b7661e47fe9134b00add5b1dc874011",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/0c4da9ab0b7661e47fe9134b00add5b1dc874011"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/pyportal_boing/.leonardo.test.skip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/pyportal_boing/.mega2560.test.skip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/pyportal_boing/.uno.test.skip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/pyportal_boing/graphics.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3421f7b4b507a7c7df1d1fd34537f6ed64d509ff",
+      "size": 101433,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/3421f7b4b507a7c7df1d1fd34537f6ed64d509ff"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/pyportal_boing/pyportal_boing.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59673b9510d397cae4fe15558b2a658fe0d2d682",
+      "size": 6257,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/59673b9510d397cae4fe15558b2a658fe0d2d682"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/touchpaint",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2c5f735217d8672a27ca9f5b6a5c945adad41e95",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/2c5f735217d8672a27ca9f5b6a5c945adad41e95"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/touchpaint/touchpaint.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "227abdc84d74ce68aa2619011ad8938e97852d8d",
+      "size": 4719,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/227abdc84d74ce68aa2619011ad8938e97852d8d"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/touchpaint_featherwing",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6872b60d9491ffc63a88a6cc89ac2e01a39faed5",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/6872b60d9491ffc63a88a6cc89ac2e01a39faed5"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/touchpaint_featherwing/.mega2560.test.skip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/touchpaint_featherwing/touchpaint_featherwing.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "76ed8fcc8f07f3b24d35bf67ecb99ae60adf0123",
+      "size": 5287,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/76ed8fcc8f07f3b24d35bf67ecb99ae60adf0123"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/touchpaint_pyportal",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d4d104f877fa6eb4a1dd20b8cc65a24e95fd7a4c",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/trees/d4d104f877fa6eb4a1dd20b8cc65a24e95fd7a4c"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/touchpaint_pyportal/.esp8266.test.skip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/touchpaint_pyportal/.mega2560.test.skip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/touchpaint_pyportal/.uno.test.skip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/touchpaint_pyportal/.zero.test.skip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/examples/touchpaint_pyportal/touchpaint_pyportal.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1c0d4b3a9a0cad58d04e3a052c5d72add11b517f",
+      "size": 3818,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/1c0d4b3a9a0cad58d04e3a052c5d72add11b517f"
+    },
+    {
+      "path": "software/Arduino/libraries/adafruit_ili9341/library.properties",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0eafdd3b15ce07864aa98c58b9f798791879f645",
+      "size": 269,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-badge-2019/git/blobs/0eafdd3b15ce07864aa98c58b9f798791879f645"
+    }
+  ],
+  "truncated": false
+}

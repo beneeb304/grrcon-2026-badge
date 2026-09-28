@@ -1,0 +1,17 @@
+{
+  "name": "bitly-second-preview",
+  "url": "https://bit.ly/GrrCON15b+",
+  "final": "https://bit.ly/GrrCON15b+",
+  "status": 200,
+  "headers": {
+    "Server": "nginx",
+    "Date": "Sun, 27 Sep 2026 03:47:00 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "x-frame-options": "DENY",
+    "Via": "1.1 google, 1.1 google",
+    "Alt-Svc": "h3=\":443\"; ma=2592000",
+    "Connection": "close",
+    "Transfer-Encoding": "chunked"
+  },
+  "size": 14537
+}

@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="infoPlus.documentTitle">Bitly. The power of the link.</title>
+    <link rel="stylesheet" href="https://d1ayxb9ooonjts.cloudfront.net/bitly2/9106518BF0329E31E99579739A3C2F08E02B24E7.css">
+    <script>
+      function copyLink() {
+        const elem = document.createElement('textarea');
+        elem.value = document.getElementsByClassName('bitlink--MAIN')[0].innerText;
+        document.body.appendChild(elem);
+        elem.select();
+        document.execCommand('copy');
+        document.body.removeChild(elem);
+
+        let copyLabel = document.querySelector('.item--action-buttons .icon-label');
+        copyLabel.innerText = 'Copied!';
+        setTimeout(() => {
+          copyLabel.innerText = 'Copy';
+        }, 1500)
+      }
+    </script>
+    <script type="text/javascript">
+      ;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+      p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+      };p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+      n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","https:\/\/d1ayxb9ooonjts.cloudfront.net\/bitly2\/E6452AD3B4336E8838086BA6E9D6682CFD7D2EA0.js","snowplow"));
+
+      window.snowplow('newTracker', 'sp', "sp.bitly.com", {
+        appId: "bitly-infoplus",
+        discoverRootDomain: true,
+        cookieSameSite: 'Lax',
+        contexts: {
+          session: true,
+          performanceTiming: true
+        }
+      });
+
+      window.snowplow('trackPageView');
+    </script>
+  </head>
+
+<body>
+  <header class="marketing-header--MAIN">
+    <div class="marketing-header--wrapper">
+      <a href="https://bitly.com/" alt="bitly logo" class="icon bitly-logo"></a>
+      <nav class="marketing-header--nav">
+        <a
+          class="marketing-header--nav-item" href="https://bitly.com/pages/enterprise" data-i18n="infoPlus.linkEnterprise">Enterprise</a>
+        <a class="marketing-header--nav-item" href="https://bitly.com/pages/resources" data-i18n="infoPlus.linkResources">Resources</a >
+        <a class="marketing-header--nav-item" href="https://bitly.com/pages/about" data-i18n="infoPlus.linkAbout">About</a>
+      </nav>
+      <div class="marketing-header--details">
+        <a class="marketing-header--button-account" href="https://bitly.com/a/sign_in" data-i18n="infoPlus.linkLogin">Login</a>
+        <a
+          class="marketing-header--button-signup"
+          href="https://bitly.com/a/sign_up?utm_content=info_plus&utm_source=organic&utm_medium=website&utm_campaign=website"
+          data-i18n="infoPlus.linkSignUp"
+        >Sign Up</a>
+      </div>
+    </div>
+  </header>
+  
+  
+  
+  
+  <div class="marketing-data--wrapper">
+    <div class="bitlink--metadata-wrapper">
+      <div class="bitlink--titleInfo-wrapper">
+        <div class="bitlink--title--MAIN">
+          <div class="item-detail--title">
+            - YouTube
+          </div>
+        </div>
+        <time class="item-detail--created-date">
+          Dec 24 2025 05:48 UTC
+        </time>
+      </div>
+      <div class="bitlink--actionbar-wrapper">
+        <div class="bitlink--actionbar-link">
+          <a href="http://bit.ly/GrrCON15b" class="bitlink--copyable-text" target="_blank" rel="noopener noreferrer">
+            <span class="inner">
+              <span class="orb-icon">
+                <svg
+                  stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em"
+                  width="1em" xmlns="http://www.w3.org/2000/svg">
+                  <title data-i18n="infoPlus.iconTitle">Icon</title>
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path
+                    d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z">
+                  </path>
+                </svg>
+              </span>
+              <div class="bitlink--MAIN" tabindex="-1" title="bit.ly/GrrCON15b">
+                bit.ly/GrrCON15b
+              </div>
+            </span>
+          </a>
+        </div>
+        <div class="item--action-buttons">
+          <button class="orb-button tertiary-brand small" tabindex="0" type="button" onclick="copyLink()">
+            <span class="orb-button-icon">
+              <span class="orb-icon">
+                <svg stroke="currentColor"
+                  fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em"
+                  xmlns="http://www.w3.org/2000/svg">
+                  <title data-i18n="infoPlus.iconTitle">Icon</title>
+                  <path fill="none" d="M0 0h24v24H0z"></path>
+                  <path
+                    d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z">
+                  </path>
+                </svg>
+              </span>
+            </span>
+            <span class="icon-label" data-i18n="infoPlus.textCopy">Copy</span>
+          </button>
+        </div>
+      </div>
+      <div class="bitlink--destination-wrapper">
+        <div class="bitlink--destination">
+          <span class="orb-icon">
+            <svg stroke="currentColor" fill="currentColor"
+              stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+              <title data-i18n="infoPlus.iconTitle">Icon</title>
+              <path fill="none" d="M0 0h24v24H0z"></path>
+              <path d="M6.99 11L3 15l3.99 4v-3H14v-2H6.99v-3zM21 9l-3.99-4v3H10v2h7.01v3L21 9z"></path>
+            </svg>
+          </span>
+          <div class="bitlink--destination-text">
+            <span class="bitlink-item-label" data-i18n="infoPlus.textDestinationsHeader">Destinations</span>
+            
+            <ul>
+              <li>
+                <a class="item-detail--url"
+                  href="https://www.youtube.com/shorts/xkK5x4kOaNc"
+                  title="https://www.youtube.com/shorts/xkK5x4kOaNc"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  https://www.youtube.com/shorts/xkK5x4kOaNc
+                </a>
+              </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="empty-state--CONFIDENTIAL">
+      <div class="empty-state--gradient-wrapper">
+        <div
+          class="empty-state--text"
+          data-i18n="[html]infoPlus.textLinkYouCreated"
+          data-i18n-options='{
+            "appLink": "https://app.bitly.com/default/bitlinks/4qkywEL",
+            "class": "help-center-link",
+            "supportLink": "https://support.bitly.com/hc/en-us/articles/230905028"
+          }'
+        >
+          If this is a Bitly link you created from your account, please log in to
+          <a href="https://app.bitly.com/default/bitlinks/4qkywEL" rel="nofollow">
+            view the click data
+          </a>
+            . Learn more about how to view your click data in our
+          <a class="help-center-link" href="https://support.bitly.com/hc/en-us/articles/230905028">Help Center.</a>
+        </div>
+        <div class="empty-state--button-container"></div>
+      </div>
+    </div>
+  </div>
+  
+  <footer class="marketing-footer--MAIN">
+    <div class="marketing-footer--wrapper">
+      <div class="marketing-footer--links">
+        <a class="marketing-footer--link" href="https://blog.bitly.com/" data-i18n="infoPlus.linkBlog">Blog</a>
+        <a class="marketing-footer--link" href="https://support.bitly.com/" data-i18n="infoPlus.linkSupport">Support</a>
+        <a class="marketing-footer--link" href="https://bitly.com/pages/contact" data-i18n="infoPlus.linkContact">Contact</a>
+        <a class="marketing-footer--link" href="https://dev.bitly.com/" data-i18n="infoPlus.linkDevelopers">Developers</a>
+        <a class="marketing-footer--link" href="https://bitly.com/pages/privacy" data-i18n="infoPlus.linkPrivacyPolicy">Privacy Policy</a>
+        <a class="marketing-footer--link" href="https://bitly.com/pages/terms-of-service" data-i18n="infoPlus.linkTermsOfService">Terms Of Service</a>
+        <a class="marketing-footer--link" href="https://bitly.com/pages/partners" data-i18n="infoPlus.linkPartners">Partners</a>
+        <a class="marketing-footer--link" href="https://bitly.com/pages/careers" data-i18n="infoPlus.linkCareers">Careers</a>
+      </div>
+      <a href="https://bitly.com/" class="icon bitly-logo"></a>
+      <div>
+        <a class="marketing-footer--icon" href="https://www.facebook.com/bitly" target="_blank"></a>
+        <a class="marketing-footer--icon" href="https://twitter.com/bitly" target="_blank"></a>
+        <a class="marketing-footer--icon" href="https://www.linkedin.com/company/bitly" target="_blank"></a>
+        <a class="marketing-footer--icon" href="https://instagram.com/bitly" target="_blank"></a>
+      </div>
+      <div
+        class="marketing-footer--copy"
+        data-i18n="infoPlus.textCopyright"
+        data-i18n-options='{"currentYear": "2026"}'
+      >© 2026 Bitly™ Handmade in NYC </div>
+    </div>
+  </footer>
+  <script src="https://cdn.jsdelivr.net/npm/i18next@23.16.3/i18next.min.js" integrity="sha256-O2D43lGgDBx6ypRifSa9O5Yg6LbNlU1KbFuQYUiUwRw=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/i18next-http-backend@2.6.2/i18nextHttpBackend.min.js" integrity="sha256-N3fStawn6KcTGp+aOiia8q/bLce5an8f6uf/aB8kccw=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/i18next-browser-languagedetector@8.0.0/i18nextBrowserLanguageDetector.min.js" integrity="sha256-jcUA2n/lJMRpklD/lau4bm3Y07qumRYTRd7sYFAySkk=" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/i18next-phrase-in-context-editor-post-processor@1.6.1/dist/i18next-phrase-in-context-editor-post-processor.umd.js" integrity="sha256-/+US45s9nK+uxSNii/KXNOH9mxGCQG2jSWytXWNPuHM=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/loc-i18next@0.1.6/dist/umd/loc-i18next.min.js" integrity="sha256-i/XkMNtFWXAgVw4xvk2Lx0SY+195DWTuHYBwYn4LXzo=" crossorigin="anonymous"></script>
+
+<script type="text/javascript" src="https://d1ayxb9ooonjts.cloudfront.net/bitly2/CA2E6BE6389EA25DDD1DAA94F35CBBEE394176FF.js"></script>
+<script type="text/javascript">
+    window.TrackJS && !TrackJS.isInstalled() && TrackJS.install({
+        token: "51a493254d2041208312d4ed2eb4917c",
+        application: "bitly2go-templates-prod",
+        callback: { enabled: false },
+        console: {
+            watch: ["error"],
+        },
+        onError(payload) {
+            payload.network = payload.network.filter((item) =>
+            
+            !/bing|cookie|fbevents|googletagmanager|google-analytics|linkedin|pdst-events|snowplow/.test(
+              item.url,
+            ),
+        );
+
+        return true;
+      },
+
+        network: { enabled: false },
+        visitor: { enabled: false },
+        window: { enabled: false, promise: false }
+    });
+</script>
+
+
+<script type="text/javascript">
+    const projectID = "d7173c48a7246da9c3f4f1d2392b7071";
+    const accountID = "39bf64551c581ff154c5a815bc7c3cb1";
+    const enableInContextEditor =  false ;
+
+    
+    
+    const localeURLS = {
+        "en": "https://d1ayxb9ooonjts.cloudfront.net/bitly2/9A330161F073242E3F3DF1560D7AAAB008A37D89.json",
+        "fr": "https://d1ayxb9ooonjts.cloudfront.net/bitly2/BE46CC9B9C1E96136DC3C41E6EB8594F010E1DAB.json",
+        "de": "https://d1ayxb9ooonjts.cloudfront.net/bitly2/A08CC0017639DD75CA80900A9159D2D1EEF7BC03.json",
+        "es": "https://d1ayxb9ooonjts.cloudfront.net/bitly2/5A641B6BFBEDFDB37F584FF236C1F0B82FDFAA93.json",
+        "es-419": "https://d1ayxb9ooonjts.cloudfront.net/bitly2/CA9A027634B25575FEAA6C4FBD9AEE6C9F29B76D.json",
+        "it": "https://d1ayxb9ooonjts.cloudfront.net/bitly2/D34DE0901ED07C28C9449E7780938181F4A8D1D6.json",
+        "th": "https://d1ayxb9ooonjts.cloudfront.net/bitly2/A4A65CAC79C71E63D7272CFBD0C78F8C073C7132.json",
+        "pt-BR": "https://d1ayxb9ooonjts.cloudfront.net/bitly2/FE7080F4FFA874C4AC6B4B9A2691A5BB521526B6.json",
+        "ta": "https://d1ayxb9ooonjts.cloudfront.net/bitly2/015997422F6B48E0FA4A66294D6A2AD23B3C0B4D.json",
+        "hi": "https://d1ayxb9ooonjts.cloudfront.net/bitly2/EE373CD0BC1A090D6BA6374D2700FEEB08272D4D.json"
+    }
+
+    const ENABLED_LOCALE_CODES = Object.keys(localeURLS);
+
+    i18next
+        .use(i18nextBrowserLanguageDetector)
+        .use(i18nextHttpBackend)
+        .use(new i18NextPhraseInContextEditorPostProcessor({
+            phraseEnabled: enableInContextEditor,
+            projectId: projectID,
+            accountId: accountID,
+            autoLowercase: false,
+            useOldICE: true 
+        }))
+        .init({
+            supportedLngs: [
+                ...ENABLED_LOCALE_CODES,
+                
+                'pt'
+            ],
+            fallbackLng: 'en',
+            cleanCode: true,
+            
+            
+            
+            nonExplicitSupportedLngs: true,
+            detection: {
+                order: [
+                    'querystring',
+                    'cookie',
+                    'navigator',
+                    'localStorage',
+                    'sessionStorage'
+                ],
+                lookupQuerystring: 'hl',
+            },
+            backend: {
+                crossDomain: true,
+                loadPath: (lng) => {
+                    let primaryLng = lng
+
+                    
+                    if (primaryLng === 'pt') {
+                      primaryLng = 'en';
+                    }
+
+                    return localeURLS[primaryLng]
+                }
+            },
+            ...(enableInContextEditor && { postProcess: ['phraseInContextEditor'] })
+        }, function(err) {
+            if (err) {
+                TrackJS?.isInstalled() && TrackJS.track(`phrase.html error: ${err}`);
+                return
+            }
+            
+            document.documentElement.lang = i18next.language;
+
+            
+            const localize = locI18next.init(i18next, {
+               optionsAttr: 'data-i18n-options',
+               useOptionsAttr: true
+            });
+            
+            localize("html");
+        });
+</script>
+
+</body>
+
+</html>

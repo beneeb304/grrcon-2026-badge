@@ -1,0 +1,26 @@
+{
+  "name": "bitly-second",
+  "url": "https://bit.ly/GrrCON15b",
+  "final": "https://bit.ly/GrrCON15b",
+  "status": 301,
+  "headers": {
+    "Server": "nginx",
+    "Date": "Sun, 27 Sep 2026 03:47:00 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Content-Length": "95",
+    "Cache-Control": "private, max-age=90",
+    "Content-Security-Policy": "referrer always;",
+    "Location": "https://www.youtube.com/shorts/xkK5x4kOaNc",
+    "Referrer-Policy": "unsafe-url",
+    "Set-Cookie": "_bit=q8r3L0-2615f466b0ec624784-00o; Domain=bit.ly; Expires=Fri, 26 Mar 2027 03:47:00 GMT",
+    "X-Robots-Tag": "noindex",
+    "Via": "1.1 google",
+    "Alt-Svc": "h3=\":443\"; ma=2592000",
+    "Connection": "close"
+  },
+  "size": 95,
+  "links": [
+    "https://www.youtube.com/shorts/xkK5x4kOaNc"
+  ],
+  "comments": []
+}

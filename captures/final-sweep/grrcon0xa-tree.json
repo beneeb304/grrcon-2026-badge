@@ -1,0 +1,136 @@
+{
+  "sha": "073c36981ae55ec06b0fc29c75cbfba6675f0b37",
+  "url": "https://api.github.com/repos/Hak4Kidz/grrcon0xa/git/trees/073c36981ae55ec06b0fc29c75cbfba6675f0b37",
+  "tree": [
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "size": 35149,
+      "url": "https://api.github.com/repos/Hak4Kidz/grrcon0xa/git/blobs/f288702d2fa16d3cdf0035b15a9fcbc552cd88e7"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d8b501a5bfe1f251c8f57feda9896b9845d580d7",
+      "size": 4232,
+      "url": "https://api.github.com/repos/Hak4Kidz/grrcon0xa/git/blobs/d8b501a5bfe1f251c8f57feda9896b9845d580d7"
+    },
+    {
+      "path": "hardware",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "374b1547337328f3281fbd550b9a81566b72321d",
+      "url": "https://api.github.com/repos/Hak4Kidz/grrcon0xa/git/trees/374b1547337328f3281fbd550b9a81566b72321d"
+    },
+    {
+      "path": "hardware/atmega328p-tqfp32 pinouts.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9ba5b5fb6ef9cbc718f2a8baa7dcf9d5fb7b4e9d",
+      "size": 430507,
+      "url": "https://api.github.com/repos/Hak4Kidz/grrcon0xa/git/blobs/9ba5b5fb6ef9cbc718f2a8baa7dcf9d5fb7b4e9d"
+    },
+    {
+      "path": "hardware/datasheets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d71219115d0e618532c83c7d1d10b488316f85f8",
+      "url": "https://api.github.com/repos/Hak4Kidz/grrcon0xa/git/trees/d71219115d0e618532c83c7d1d10b488316f85f8"
+    },
+    {
+      "path": "hardware/datasheets/ATmega48A-PA-88A-PA-168A-PA-328-P-DS-DS40002061B.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8359bc98b43cf6b1716c8f8a3f89becdcc876327",
+      "size": 33319446,
+      "url": "https://api.github.com/repos/Hak4Kidz/grrcon0xa/git/blobs/8359bc98b43cf6b1716c8f8a3f89becdcc876327"
+    },
+    {
+      "path": "hardware/datasheets/LIS3DHappnote.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e3ccdec7f06d2d20f2caea1806f96e1186bfb06",
+      "size": 1495055,
+      "url": "https://api.github.com/repos/Hak4Kidz/grrcon0xa/git/blobs/6e3ccdec7f06d2d20f2caea1806f96e1186bfb06"
+    },
+    {
+      "path": "hardware/datasheets/lis3dh.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e693df5d35265679156e927664060471c38ae242",
+      "size": 1056997,
+      "url": "https://api.github.com/repos/Hak4Kidz/grrcon0xa/git/blobs/e693df5d35265679156e927664060471c38ae242"
+    },
+    {
+      "path": "software",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d5d2ffb85af57eab5942377d9e4720728a0b1dbc",
+      "url": "https://api.github.com/repos/Hak4Kidz/grrcon0xa/git/trees/d5d2ffb85af57eab5942377d9e4720728a0b1dbc"
+    },
+    {
+      "path": "software/Arduino",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "41d48b0cae89cf3489a9d509b7d4393ec3e8968b",
+      "url": "https://api.github.com/repos/Hak4Kidz/grrcon0xa/git/trees/41d48b0cae89cf3489a9d509b7d4393ec3e8968b"
+    },
+    {
+      "path": "software/Arduino/libraries",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "23af220278829159afe0100b2e619f6ae5a68cb8",
+      "url": "https://api.github.com/repos/Hak4Kidz/grrcon0xa/git/trees/23af220278829159afe0100b2e619f6ae5a68cb8"
+    },
+    {
+      "path": "software/Arduino/libraries/Adafruit_LIS3DH-master.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6368bc96b1c9009216d5b52feb692476caae013",
+      "size": 481096,
+      "url": "https://api.github.com/repos/Hak4Kidz/grrcon0xa/git/blobs/e6368bc96b1c9009216d5b52feb692476caae013"
+    },
+    {
+      "path": "software/Arduino/libraries/Adafruit_Sensor-master.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "abda8c46e2b7d21b473f9baf71c8765435b90274",
+      "size": 15693,
+      "url": "https://api.github.com/repos/Hak4Kidz/grrcon0xa/git/blobs/abda8c46e2b7d21b473f9baf71c8765435b90274"
+    },
+    {
+      "path": "software/Arduino/prototype_test_v2.92",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "757316d0bb3d87d18c1d24e55a255910d8eccc75",
+      "url": "https://api.github.com/repos/Hak4Kidz/grrcon0xa/git/trees/757316d0bb3d87d18c1d24e55a255910d8eccc75"
+    },
+    {
+      "path": "software/Arduino/prototype_test_v2.92/prototype_test_v2.92.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a405bb53c8a740aa4b4203a22b840f3f2329c07",
+      "size": 16590,
+      "url": "https://api.github.com/repos/Hak4Kidz/grrcon0xa/git/blobs/3a405bb53c8a740aa4b4203a22b840f3f2329c07"
+    },
+    {
+      "path": "software/bootloader",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0e4e48f40a91aaf6b1ef8aebfbdb8e8578d81643",
+      "url": "https://api.github.com/repos/Hak4Kidz/grrcon0xa/git/trees/0e4e48f40a91aaf6b1ef8aebfbdb8e8578d81643"
+    },
+    {
+      "path": "software/bootloader/optiboot_atmega328.hex",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f13f241eb1c4c49677f9e65b45948f6be2f9477",
+      "size": 1367,
+      "url": "https://api.github.com/repos/Hak4Kidz/grrcon0xa/git/blobs/9f13f241eb1c4c49677f9e65b45948f6be2f9477"
+    }
+  ],
+  "truncated": false
+}

@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+  		<title>H4K Lab Redirect</title>
+  			<meta charset="UTF-8" />
+  			<meta http-equiv="refresh" content="0; URL=https://www.hak4kidz.com" />
+  	</head>
+  	<body>
+  		<p>This page has been moved. If you are not redirected within 0 seconds, click <a href="https://www.hak4kidz.com/">here</a> to go to the Hak4Kidz homepage.</p>
+  	</body>
+  </html>

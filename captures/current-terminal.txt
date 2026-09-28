@@ -1,0 +1,149 @@
+EEPROM Marker Dump:
+Addr 0: 0x47 (G)
+Addr 1: 0x52 (R)
+Addr 2: 0x52 (R)
+Addr 3: 0x45 (E)
+Addr 4: 0x01 (.)
+Addr 5: 0x00 (.)
+
+
+probe...
+contact...
+handshake accepted.
+
+Checking firmware.......
+System booting..........
+
+
+
+
+
+
+    ______          __________  _   __
+   / ____/_________/ ____/ __ \/ | / /
+  / / __/ ___/ ___/ /   / / / /  |/ /
+ / /_/ / /  / /  / /___/ /_/ / /|  /
+ \____/_/  /_/   \____/\____/_/ |_/
+
+               .-') _    ('-. .-.
+              (  OO) )  ( OO )  /
+ .---..------./     '._ ,--. ,--.
+ /_   ||   ___||'--...__)|  | |  |
+  |   ||  '--. '--.  .--'|   .|  |
+  |   |`---.  '.  |  |   |       |
+  |   |.-   |  |  |  |   |  .-.  |
+  |   || `-'   /  |  |   |  | |  |
+  `---' `----''   `--'   `--' `--'
+
+
+   Anniversary Challenge Badge!
+
+
+
+
+Congratulations! You found the start of the challenges.
+             Designed and written by Heal
+                   www.hak4kidz.com
+
+Follow @Hak4Kidz for badge updates.
+
+For puzzle details, visit the CTF Server at this link:
+    https://bit.ly/GrrCON15
+
+Enter secret code to continue.
+The secret code is the full name of the person you see.
+> Rick Paul Astley
+ACCESS DENIED. Attempts left: 2
+
+Enter secret code to continue.
+The secret code is the full name of the person you see.
+> Richard Astley
+ACCESS DENIED. Attempts left: 1
+
+Enter secret code to continue.
+The secret code is the full name of the person you see.
+> rick astley
+ACCESS GRANTED
+Never gonna give you up...
+This is the real link to the CTF Server -> https://bit.ly/GrrCON15b
+
+System shutdown......
+Entering Sentinel Mode...
+Testing pin: 16 (ledPins[0])
+Testing pin: 0 (ledPins[1])
+Testing pin: 1 (ledPins[2])
+Testing pin: 8 (ledPins[3])
+Testing pin: 9 (ledPins[4])
+
+Sentinel Mode Complete
+Entering Sentinel Watch Mode...
+
+EEPROM Marker Dump:
+Addr 0: 0x47 (G)
+Addr 1: 0x52 (R)
+Addr 2: 0x52 (R)
+Addr 3: 0x45 (E)
+Addr 4: 0x01 (.)
+Addr 5: 0x00 (.)
+
+
+probe...
+contact...
+handshake accepted.
+
+Checking firmware.......
+System booting..........
+
+
+
+
+
+
+    ______          __________  _   __
+   / ____/_________/ ____/ __ \/ | / /
+  / / __/ ___/ ___/ /   / / / /  |/ /
+ / /_/ / /  / /  / /___/ /_/ / /|  /
+ \____/_/  /_/   \____/\____/_/ |_/
+
+               .-') _    ('-. .-.
+              (  OO) )  ( OO )  /
+ .---..------./     '._ ,--. ,--.
+ /_   ||   ___||'--...__)|  | |  |
+  |   ||  '--. '--.  .--'|   .|  |
+  |   |`---.  '.  |  |   |       |
+  |   |.-   |  |  |  |   |  .-.  |
+  |   || `-'   /  |  |   |  | |  |
+  `---' `----''   `--'   `--' `--'
+
+
+   Anniversary Challenge Badge!
+
+
+
+
+Congratulations! You found the start of the challenges.
+             Designed and written by Heal
+                   www.hak4kidz.com
+
+Follow @Hak4Kidz for badge updates.
+
+For puzzle details, visit the CTF Server at this link:
+    https://bit.ly/GrrCON15
+
+Enter secret code to continue.
+The secret code is the full name of the person you see.
+> 67
+ACCESS DENIED. Attempts left: 2
+
+Enter secret code to continue.
+The secret code is the full name of the person you see.
+> 67
+ACCESS DENIED. Attempts left: 1
+
+Enter secret code to continue.
+The secret code is the full name of the person you see.
+> ýýýýýýýmýýmýýmýýmmýmm
+ACCESS DENIED. Attempts left: 0
+Too many incorrect guesses.
+System shutdown......
+

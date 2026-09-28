@@ -1,0 +1,287 @@
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<!-- <meta http-equiv="Refresh" content="1; URL=http://www.hak4kidz.com"> -->
+ 		<meta name="keywords" content="" />
+		<meta name="description" content="" />
+		<meta name="google-site-verification" content="dvvKhWQPQOfx9XT9TL7RMQMfv-VDhko8dPkw23ivV7M" />
+		<meta name="google-site-verification" content="EQM6PMABYNeE244SjzSx9VLFrAfZXoRIxMTjRflwm04" /> <!-- YT verification -->
+		<base href="https://www.hak4kidz.com" target="_blank">
+		<title>Hak4Kidz | Home</title>
+		
+		<!-- Vendor CSS Files -->
+		<link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  
+		<!-- Main CSS Files -->
+		<link href="theme/css/style.css" rel="stylesheet" type="text/css" media="all" />
+		<link href="theme/css/slider.css" rel="stylesheet" type="text/css" media="all" />
+		<script src="theme/js/slider.js" type="text/javascript"></script>
+		<script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+
+		  _gaq.push(['_setAccount', 'UA-51057316-1']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		</script>
+		<!-- MaiChimp Script -->
+		<script id="mcjs">
+			!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/69c5892a76325952b24760dce/847814489ca83cf3de7127c3d.js");
+		</script>
+		<!-- MaiChimp Script End -->
+		 <script>
+			function includeHTML() {
+  			var z, i, elmnt, file, xhttp;
+  			/* Loop through a collection of all HTML elements: */
+  			z = document.getElementsByTagName("*");
+  			for (i = 0; i < z.length; i++) {
+  			  elmnt = z[i];
+  			  /*search for elements with a certain atrribute:*/
+  			  file = elmnt.getAttribute("w3-include-html");
+  			  if (file) {
+  			    /* Make an HTTP request using the attribute value as the file name: */
+  			    xhttp = new XMLHttpRequest();
+  			    xhttp.onreadystatechange = function() {
+  			      if (this.readyState == 4) {
+  			        if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+   			       if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+   			       /* Remove the attribute, and call this function once more: */
+   			       elmnt.removeAttribute("w3-include-html");
+  			        includeHTML();
+  			      }
+ 			     }
+			      xhttp.open("GET", file, true);
+			      xhttp.send();
+			      /* Exit the function: */
+			      return;
+			    }
+			  }
+			}
+		</script> 
+		<Script>
+		    var imgArray = new Array(
+		        'h4kyetiart.jpg'
+		    );
+		    
+		    var imgPath = "/images/";
+		    
+		    function swapImage(imgID) {
+		       var theImage = document.getElementById('theImage');
+		       var newImg;
+		       newImg = imgArray[imgID];
+		       theImage.src = imgPath + newImg;
+		    }
+
+			var logo = new Array()
+			function banner(name, width, link){
+				this.name = name
+				this.width = width
+				this.link = link
+			   }
+
+			var speed = 20
+
+			var logo_count = logo.length
+			var i
+			var j
+			var n
+			var myInterval
+			var myPause
+			var mode = 0
+
+			var imgArray = new Array(logo_count)
+			var myLeft = new Array(logo_count)
+
+			for (i=0;i<logo_count;i++){
+			imgArray[i] = new Image()
+			imgArray[i].src = logo[i].name
+			imgArray[i].width = logo[i].width
+
+				j=0 
+				for (n=0;n<i;n++){
+					j=j+logo[n].width
+				}
+				myLeft[i] = j
+			}
+
+			function ready(){
+				for (i=0;i<logo_count;i++){ 
+					if (document.images[i].complete == false){
+						return false	
+						break
+					}
+				}
+			return true
+			}
+
+
+			function startScrolling(){
+				if (ready() == true){		
+					window.clearInterval(myPause)
+					myInterval = setInterval("autoScroll()",speed)	
+				}
+			}	
+	
+
+			function autoScroll(){
+				for (i=0;i<logo_count;i++){
+					myLeft[i] = myLeft[i] -1
+		
+				if (myLeft[i] == 0){
+					j = 0
+					for (n=0;n<logo_count;n++){
+						if (n!=i){
+							j = j + logo[n].width
+						}			
+					}
+					myLeft[i] =  j 
+				}
+		
+				
+					document.images[i].style.left = myLeft[i]
+				}
+				mode = 1
+			}
+
+
+			function stop(){
+				if (mode == 1){
+					window.clearInterval(myInterval)
+				}
+				if (mode == 0){
+					window.clearInterval(myPause)
+				}	
+			}
+	
+			function go(){
+				if (mode == 1){
+					myInterval = setInterval("autoScroll()",speed)
+				}
+				if (mode == 0){
+					myPause = setInterval("startScrolling()",300)
+				}	
+			}
+
+			myPause = setInterval("startScrolling()",300)
+		</Script>
+		<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+			
+
+<!-- Noscript content for added SEO -->
+<noscript><a href="https://hak4kidz.simpletix.com/" rel="noopener noreferrer" target="_blank">Get Tickets for Hak4Kidz!</a></noscript>
+
+	</head>
+
+	<body onload="preloadImages()">
+		<div w3-include-html="https://www.hak4kidz.com/includes/header.html"></div>
+		  <!-- ======= Hero Section =======
+		  <section>
+		      <iframe width="560" height="315" src="https://www.youtube.com/embed/ZfxaWqB8kcI?si=0tveadrJCDYlepao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  		  </section>End Hero Section -->
+		<div id="content-wrapper">
+			<div id="content">
+			
+				<h2>~# Hak4Kidz Overview</h2>
+				
+				<p>
+				Hak4Kidz is the first official youth based <strong>ethical</strong> hacking conference in Chicago that is <strong>*not*</strong> a hackathon.
+				</p>
+				
+				<p>Please take a moment to read our <a href="activities/coc.html">Code of Conduct</a>.</p>
+				
+				<h2>~# Critical Data</h2>
+				
+				<h2>~# 2026 Events</h2>
+				
+				<dl>				
+				<dt>   
+				  <h3>$_CHICAGO - 62 6f 6f 74 69 6e 67 2e 2e 2e</h3></dt>
+
+			        <div class="container text-center mt-4">
+			          <h1 class="mt-3" style="font-size: 1.8rem;">Time Travel: Capture the Flag</h1>
+			          <!-- <a href="https://ctf.hak4kidz.com/register">
+                                     <img src="https://ctf.hak4kidz.com/themes/core-beta/static/img/logo.png" class="img-fluid" style="max-width: 30%;" alt="Bug vs Bot Logo" align="center">
+                                  </a> -->
+			          <p class="lead" style="font-size: 1rem;">
+ 			            Join Tinker to solve the problems through time!
+			            Solve STEM puzzles, earn stickers, and prove your hacking skills in this hands-on CTF designed for you!
+			          </p>
+			        </div>
+					<div>
+					        <a class="simpletix-button-theme" onclick="createSimpleTixEmbed(this, '5ae90e4f-8f4c-4d23-af58-24741f781d85', '248611', '#hak4kidz-2026','Hak4Kidz', '', '0'); return false;" data-url="https://embed.prod.simpletix.com/" data-enabledigitalwallets="true" style="background-color: #2686b7 !important;font-family: 'Poppins', sans-serif !important;" data-origin="11">Get Tickets
+ 					       </a>
+        					<link href="https://embed.prod.simpletix.com/assets/widget/widget.min.css?t=2025.10.11" rel="stylesheet">
+        					<script src="https://embed.prod.simpletix.com/assets/widget/widget.min.js?t=2025.11.25" type="text/javascript"></script>
+					</div>
+				<dd> 
+				  <p> <!-- Chi -->
+				  <strong>When:</strong> Saturday June 6th, 2026, 9:00am doors open, Opening Ceremonies begin 9:30am, Day ends at 4pm CDT<br>
+				  <!-- <strong>Promo:</strong> Early Bird Discount code <strong>H4K-EB2026</strong> for <strong>20% OFF!</strong><br> -->
+				  <strong>Where:</strong> <a href="https://www.google.com/maps/place/Irish+American+Heritage+Center/@41.9653418,-87.7469536,801m/data=!3m2!1e3!4b1!4m6!3m5!1s0x880fcc304c398cdd:0x9d21ad4341cdff52!8m2!3d41.9653378!4d-87.7443787!16s%2Fm%2F0k5dkxf!5m1!1e2?entry=ttu&g_ep=EgoyMDI1MDMxOC4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D" target="new">Irish American Heritage Center</a> 4626 N Knox Ave, Chicago, IL<br>
+				  <strong>Registration:</strong> ** <a href="https://hak4kidz.simpletix.com?aff=home" rel="noopener noreferrer" target="new">Ticket Sales are starting very early this year, Dec 15th!!!</a> ** <br>
+				  <strong>Registration ends: </strong>June 6th, 2026 12pm CDT
+				  <br><strong>NOTE: Shirt size or availability not guaranteed after May 15th registrations.</strong><br> 
+				  <strong>Activities:</strong> ** <a href ="#" target="new">Activities</a> are compiled! **<br>
+				  <strong>Schedule of Activities:</strong> ** <a href ="schedule.htm" target="new">Online</a> Bee Boop **<br><br>
+				  <strong>** Bring A Laptop For Your Kid(z) **</strong>
+				  </p>
+				  <p>There are a lot of parking options at the venue. Use the main entrance to access the building.
+				  </p>
+				</dd>  
+				</dl>
+				
+								<dl>
+				<dt>   <h3>$_GRAND_RAPIDS - 62 6f 6f 74 69 6e 67 2e 2e 2e</h3></dt>
+				<dd>
+				 <p><!-- Source code being compiled...    GRR -->
+				  <strong>When:</strong> September 24th & 25th, 2026<br>
+				  <strong>Where:</strong> <a href="http://www.grrcon.com/" target="new">GrrCON</a> DeVos Place - 303 Monroe Ave. NW – Grand Rapids, MI<br>
+				  <strong>Registration:</strong> ** <a href="https://grrcon.com/tickets/" target="new">GrrCON GA Ticket Required</a> ** <br> 
+				  <strong>Activities:</strong> ** Village Activities Vary Each Year **<br><br>
+
+				 </p></dd> 
+				</dl>
+
+				<dl><dt> 
+
+				
+				<h2>~# Past 2025 Events</h2>
+				
+				<dl>
+				<dt>   <h3>$_GRAND_RAPIDS - 73 68 75 74 64 6f 77 6e 2e 2e 2e</h3></dt>
+				<dd>
+				 <p><!-- Source code being compiled...    GRR -->
+				  <strong>When:</strong> October 2nd & 3rd, 2025<br>
+				  <strong>Where:</strong> <a href="http://www.grrcon.com/" target="new">GrrCON</a> DeVos Place - 303 Monroe Ave. NW – Grand Rapids, MI<br>
+				  <strong>Registration:</strong> ** <a href="https://grrcon.com/tickets/" target="new">GrrCON GA Ticket Required</a> ** <br> 
+				  <strong>Activities:</strong> ** Village Activities Vary Each Year **<br><br>
+				 </p></dd> 
+				</dl>
+				
+				<div style="height:150px; border:#00C; position:relative; left:50px; top:30px; bottom:30px">
+      				<Script>
+						for (i=0;i<logo_count;i++){
+							document.write('<a href = ' + logo[i].link + ' target="_blank" ><img space=0 hspace=0 vspace=0 border=0 height=50 style=position:absolute;top:0;left:' + myLeft[i]  + '; src=' + logo[i].name + ' onMouseOver=stop() onMouseOut=go()></a>')
+						}
+      				</Script>
+    			</div>
+				<div w3-include-html="https://www.hak4kidz.com/includes/footer.html"></div>
+			</div>
+			 
+			 <div id="sidebar">
+			   <div w3-include-html="https://www.hak4kidz.com/includes/sidebar.html">
+			 	</div>
+			</div>
+		</div>
+	<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"633bd40320244836bef170475d8c8c23","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+	<script>
+		includeHTML();
+	</script> 
+</html>

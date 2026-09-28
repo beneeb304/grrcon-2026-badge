@@ -1,0 +1,780 @@
+{
+  "sha": "9dce10a77fbd75b975725a03bdc00eedd3dd6ae0",
+  "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/trees/9dce10a77fbd75b975725a03bdc00eedd3dd6ae0",
+  "tree": [
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "size": 35149,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/f288702d2fa16d3cdf0035b15a9fcbc552cd88e7"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "11a691b2b8f300f5c886f51f1bd28656e42727ce",
+      "size": 93,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/11a691b2b8f300f5c886f51f1bd28656e42727ce"
+    },
+    {
+      "path": "hardware",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8a0057a27670a6dd628231987cc560272b42e276",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/trees/8a0057a27670a6dd628231987cc560272b42e276"
+    },
+    {
+      "path": "hardware/2019 Badge Project Schematic.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac29911d84f5d128eed3d0f22f8ff25bfbb1d150",
+      "size": 185764,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/ac29911d84f5d128eed3d0f22f8ff25bfbb1d150"
+    },
+    {
+      "path": "hardware/AN_134_FTDI_Drivers_Installation_Guide_for_MAC_OSX.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7900861d14cf6e8834d2d19db86fb5e329ddc97",
+      "size": 1136658,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/f7900861d14cf6e8834d2d19db86fb5e329ddc97"
+    },
+    {
+      "path": "hardware/Hak4Kidz 2019 Badge BOM.xlsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c1a5d667efad3b145d472e5dbd214bad722ad2f",
+      "size": 14335,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/9c1a5d667efad3b145d472e5dbd214bad722ad2f"
+    },
+    {
+      "path": "hardware/Kicad Files",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "45f725a8414feaca002cdc4b8e220c996997bbae",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/trees/45f725a8414feaca002cdc4b8e220c996997bbae"
+    },
+    {
+      "path": "hardware/Kicad Files/Hak4Kidz2019-cache.lib",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a840f0d23427c8afca7a99e7de01bd359365a160",
+      "size": 15599,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/a840f0d23427c8afca7a99e7de01bd359365a160"
+    },
+    {
+      "path": "hardware/Kicad Files/Hak4Kidz2019-rescue.dcm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f3ed79b79731d3d1ca39cfaa9a2dda60617b802",
+      "size": 48,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/5f3ed79b79731d3d1ca39cfaa9a2dda60617b802"
+    },
+    {
+      "path": "hardware/Kicad Files/Hak4Kidz2019-rescue.lib",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c971de6e75c4ebbcc2ae7f829cc31475b0d95d7",
+      "size": 6114,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/2c971de6e75c4ebbcc2ae7f829cc31475b0d95d7"
+    },
+    {
+      "path": "hardware/Kicad Files/Hak4Kidz2019.bak",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68fd69f13f54f9491b7114e047844f8ffd8e750b",
+      "size": 42852,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/68fd69f13f54f9491b7114e047844f8ffd8e750b"
+    },
+    {
+      "path": "hardware/Kicad Files/Hak4Kidz2019.kicad_pcb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cc52ad49e66da23c4ed033d73efd8042a3514486",
+      "size": 4813662,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/cc52ad49e66da23c4ed033d73efd8042a3514486"
+    },
+    {
+      "path": "hardware/Kicad Files/Hak4Kidz2019.pro",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54825476ea62a021cc68defbfc71418412e6b89d",
+      "size": 890,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/54825476ea62a021cc68defbfc71418412e6b89d"
+    },
+    {
+      "path": "hardware/Kicad Files/Hak4Kidz2019.sch",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "30450e539237383e3222712c8a0ba593ad2e59dc",
+      "size": 41075,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/30450e539237383e3222712c8a0ba593ad2e59dc"
+    },
+    {
+      "path": "hardware/Kicad Files/fp-lib-table",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd38c44f64989e1344ab26ebea9703139db1f4b3",
+      "size": 98,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/bd38c44f64989e1344ab26ebea9703139db1f4b3"
+    },
+    {
+      "path": "hardware/Kicad Files/sym-lib-table",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e2b4f3bf163ef05d3d34ed6db8b88dcc5626544",
+      "size": 128,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/6e2b4f3bf163ef05d3d34ed6db8b88dcc5626544"
+    },
+    {
+      "path": "hardware/Part_U1-esp32-wroom-32_datasheet_en.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "08b5a5d5c8f0e19421ded4cc4909d617d1ad991f",
+      "size": 522006,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/08b5a5d5c8f0e19421ded4cc4909d617d1ad991f"
+    },
+    {
+      "path": "hardware/Part_U2-DS_FT231X datasheet.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7fa7f2c0fea5a943e048f38c567957e80bf1a506",
+      "size": 845031,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/7fa7f2c0fea5a943e048f38c567957e80bf1a506"
+    },
+    {
+      "path": "hardware/Part_U3-31FL3236.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a7a527eade8f9e2ede52048f3413c40f7d50bdc",
+      "size": 1906394,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/0a7a527eade8f9e2ede52048f3413c40f7d50bdc"
+    },
+    {
+      "path": "software",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a3f544128488e7304cd12d72b89d56f9dfceb7ec",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/trees/a3f544128488e7304cd12d72b89d56f9dfceb7ec"
+    },
+    {
+      "path": "software/Arduino",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "79ed39f22ff09b894bd2ded0b4082af9018d4508",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/trees/79ed39f22ff09b894bd2ded0b4082af9018d4508"
+    },
+    {
+      "path": "software/Arduino/Hak4Kidz2019Test",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "08bacefc5e16586bd37fdcc8fe3accb995a9e3e3",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/trees/08bacefc5e16586bd37fdcc8fe3accb995a9e3e3"
+    },
+    {
+      "path": "software/Arduino/Hak4Kidz2019Test/Hak4Kidz2019Test.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db31ff84bafaad2400ddbc67a54c7ba7711526b6",
+      "size": 2475,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/db31ff84bafaad2400ddbc67a54c7ba7711526b6"
+    },
+    {
+      "path": "software/Arduino/h4kcryptex",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "02c651e4155a8ecad16cda609d48d0082f06d2d4",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/trees/02c651e4155a8ecad16cda609d48d0082f06d2d4"
+    },
+    {
+      "path": "software/Arduino/h4kcryptex/data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "814953644daa844801a0ab0b2590e8ba6d600dc2",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/trees/814953644daa844801a0ab0b2590e8ba6d600dc2"
+    },
+    {
+      "path": "software/Arduino/h4kcryptex/data/amc.bmp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a93acb4f169ddbb83656f1d7205099fb7dd09a8",
+      "size": 230522,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/6a93acb4f169ddbb83656f1d7205099fb7dd09a8"
+    },
+    {
+      "path": "software/Arduino/h4kcryptex/data/cgs.bmp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "269a1d88979d2eec2103e49670ff2980abcbb457",
+      "size": 230522,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/269a1d88979d2eec2103e49670ff2980abcbb457"
+    },
+    {
+      "path": "software/Arduino/h4kcryptex/data/cnd.bmp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "389072715a2fbb19d0119f36655fb2a792c635b4",
+      "size": 230522,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/389072715a2fbb19d0119f36655fb2a792c635b4"
+    },
+    {
+      "path": "software/Arduino/h4kcryptex/data/cyphercon.bmp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b926f02a4997865dd9e7ccbe33b50a5475999cd6",
+      "size": 230522,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/b926f02a4997865dd9e7ccbe33b50a5475999cd6"
+    },
+    {
+      "path": "software/Arduino/h4kcryptex/data/grrcon.bmp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a9b06356fa66b0dc15643b85dca74ac9f20148bf",
+      "size": 230522,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/a9b06356fa66b0dc15643b85dca74ac9f20148bf"
+    },
+    {
+      "path": "software/Arduino/h4kcryptex/data/h4k.bmp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f49a42606672ea3e50398cc704e91353d42a5372",
+      "size": 230454,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/f49a42606672ea3e50398cc704e91353d42a5372"
+    },
+    {
+      "path": "software/Arduino/h4kcryptex/data/isn_netdoc.bmp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "91393074f284b447decb8c78a8386dad5bf7fb92",
+      "size": 230522,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/91393074f284b447decb8c78a8386dad5bf7fb92"
+    },
+    {
+      "path": "software/Arduino/h4kcryptex/data/kas_hk.bmp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "849daaa48de4922cdebf0d88a0ba5d2589a629eb",
+      "size": 230522,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/849daaa48de4922cdebf0d88a0ba5d2589a629eb"
+    },
+    {
+      "path": "software/Arduino/h4kcryptex/data/sekritdata.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e8ea6beff288a407d914280ad4e60d44a61d3886",
+      "size": 48,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/e8ea6beff288a407d914280ad4e60d44a61d3886"
+    },
+    {
+      "path": "software/Arduino/h4kcryptex/data/sekritz.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10fce1f83cee056df23d249e37a6efb9bfcf41a0",
+      "size": 1567,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/10fce1f83cee056df23d249e37a6efb9bfcf41a0"
+    },
+    {
+      "path": "software/Arduino/h4kcryptex/data/ss_mhh.bmp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aa834966396d3c2778345882ba00650c910aada0",
+      "size": 230522,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/aa834966396d3c2778345882ba00650c910aada0"
+    },
+    {
+      "path": "software/Arduino/h4kcryptex/game.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d715d0ab1fef89b47402d90f7da88e82fdff6e3",
+      "size": 42740,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/7d715d0ab1fef89b47402d90f7da88e82fdff6e3"
+    },
+    {
+      "path": "software/Arduino/h4kcryptex/h4kcryptex.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5313afecd935aefb0f62f4a1ea01dc2eeeec7289",
+      "size": 33505,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/5313afecd935aefb0f62f4a1ea01dc2eeeec7289"
+    },
+    {
+      "path": "software/ArduinoData",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0562daa2a1162b8b0910be4555d18a70533cfb28",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/trees/0562daa2a1162b8b0910be4555d18a70533cfb28"
+    },
+    {
+      "path": "software/ArduinoData/packages",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "509d5d9692865539c5caac76a9ddf3e4db48380e",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/trees/509d5d9692865539c5caac76a9ddf3e4db48380e"
+    },
+    {
+      "path": "software/ArduinoData/packages/esp32",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "01c376024f4b1685c640d45045581a05331bd435",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/trees/01c376024f4b1685c640d45045581a05331bd435"
+    },
+    {
+      "path": "software/ArduinoData/packages/esp32/hardware",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1fea609c63a20d2321ef4f561e215ca80d2e7d26",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/trees/1fea609c63a20d2321ef4f561e215ca80d2e7d26"
+    },
+    {
+      "path": "software/ArduinoData/packages/esp32/hardware/esp32",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ef5d77739726eea0f419261c6d20a81a6d18705e",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/trees/ef5d77739726eea0f419261c6d20a81a6d18705e"
+    },
+    {
+      "path": "software/ArduinoData/packages/esp32/hardware/esp32/1.0.1",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4ee3cac220afc89c0204e6ea182ab42b30b5ed13",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/trees/4ee3cac220afc89c0204e6ea182ab42b30b5ed13"
+    },
+    {
+      "path": "software/ArduinoData/packages/esp32/hardware/esp32/1.0.1/tools",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6ecbeabf4c3900afed80122c3aee7e43a0cb8dd7",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/trees/6ecbeabf4c3900afed80122c3aee7e43a0cb8dd7"
+    },
+    {
+      "path": "software/ArduinoData/packages/esp32/hardware/esp32/1.0.1/tools/partitions",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "511d96ccf58d60a64b793bfa7e9cf36ebaf1cc8e",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/trees/511d96ccf58d60a64b793bfa7e9cf36ebaf1cc8e"
+    },
+    {
+      "path": "software/ArduinoData/packages/esp32/hardware/esp32/1.0.1/tools/partitions/h4k_partitions.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54e9c8ee4edb8619cb1df4094821abf85079cfc9",
+      "size": 296,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/54e9c8ee4edb8619cb1df4094821abf85079cfc9"
+    },
+    {
+      "path": "software/TFT_eSPI",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fed237e8ed7443b0fc60ccc7d5bc12fd390d7c3b",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/trees/fed237e8ed7443b0fc60ccc7d5bc12fd390d7c3b"
+    },
+    {
+      "path": "software/TFT_eSPI/Extensions",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "dc36efadc8afa118f9aa5bbe56b27f6f4b3e7c39",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/trees/dc36efadc8afa118f9aa5bbe56b27f6f4b3e7c39"
+    },
+    {
+      "path": "software/TFT_eSPI/Extensions/Button.cpp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88a8bc01edbf2ada232f6da8df33b9325f031b53",
+      "size": 2368,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/88a8bc01edbf2ada232f6da8df33b9325f031b53"
+    },
+    {
+      "path": "software/TFT_eSPI/Extensions/Button.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e44a8f41b030733d9530caa450bef3979d653b20",
+      "size": 1344,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/e44a8f41b030733d9530caa450bef3979d653b20"
+    },
+    {
+      "path": "software/TFT_eSPI/Extensions/Smooth_font.cpp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca1cb63990ad43b9f8c13738e84c7fcc74fbacae",
+      "size": 19903,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/ca1cb63990ad43b9f8c13738e84c7fcc74fbacae"
+    },
+    {
+      "path": "software/TFT_eSPI/Extensions/Smooth_font.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7e2ca689455eb39145601e9522d30469b7c7cd7",
+      "size": 1843,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/a7e2ca689455eb39145601e9522d30469b7c7cd7"
+    },
+    {
+      "path": "software/TFT_eSPI/Extensions/Sprite.cpp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "832abb99007aa46787ea6e9fc096cb7fe256114f",
+      "size": 59801,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/832abb99007aa46787ea6e9fc096cb7fe256114f"
+    },
+    {
+      "path": "software/TFT_eSPI/Extensions/Sprite.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5dea24e0a1163934c71f8150d3dca72c2b50b6fe",
+      "size": 6665,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/5dea24e0a1163934c71f8150d3dca72c2b50b6fe"
+    },
+    {
+      "path": "software/TFT_eSPI/Extensions/Touch.cpp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb253bed8e12ce68bf1ec6edf580c56c807737f8",
+      "size": 11402,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/cb253bed8e12ce68bf1ec6edf580c56c807737f8"
+    },
+    {
+      "path": "software/TFT_eSPI/Extensions/Touch.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de4ade733d5f3d7d60241dc3164ee0e04a0ee8fc",
+      "size": 1902,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/de4ade733d5f3d7d60241dc3164ee0e04a0ee8fc"
+    },
+    {
+      "path": "software/TFT_eSPI/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2befb582def19fa430c03f91765249dd1d7f75e7",
+      "size": 9282,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/2befb582def19fa430c03f91765249dd1d7f75e7"
+    },
+    {
+      "path": "software/TFT_eSPI/README.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03ec4496b7f1acd7219a9698b43befc15d3f9a0f",
+      "size": 602,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/03ec4496b7f1acd7219a9698b43befc15d3f9a0f"
+    },
+    {
+      "path": "software/TFT_eSPI/TFT_Drivers",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "77342aa269406efbf34dcffa8faf54931ccc17a2",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/trees/77342aa269406efbf34dcffa8faf54931ccc17a2"
+    },
+    {
+      "path": "software/TFT_eSPI/TFT_Drivers/ILI9341_Defines.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc58b7fa57d9ef3bd4c9e4ec7eed84f58f4b28e2",
+      "size": 3820,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/bc58b7fa57d9ef3bd4c9e4ec7eed84f58f4b28e2"
+    },
+    {
+      "path": "software/TFT_eSPI/TFT_Drivers/ILI9341_Init.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "404c3b9070f4cdd32da2f01bf7933bd4fe06340d",
+      "size": 2562,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/404c3b9070f4cdd32da2f01bf7933bd4fe06340d"
+    },
+    {
+      "path": "software/TFT_eSPI/TFT_Drivers/ILI9341_Rotation.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5e9b382151f1348c43bf729b34f6a54760a6a47",
+      "size": 1939,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/f5e9b382151f1348c43bf729b34f6a54760a6a47"
+    },
+    {
+      "path": "software/TFT_eSPI/TFT_eSPI.cpp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad27dcb790089e1afe13529a2df596356f4e7f08",
+      "size": 148327,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/ad27dcb790089e1afe13529a2df596356f4e7f08"
+    },
+    {
+      "path": "software/TFT_eSPI/TFT_eSPI.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "75c123721cefd5e3972380d466b6412dd2169aef",
+      "size": 33767,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/75c123721cefd5e3972380d466b6412dd2169aef"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setup - Copy.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "973da7589cd05413a5af969b8e53d873c9cbbd9d",
+      "size": 13150,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/973da7589cd05413a5af969b8e53d873c9cbbd9d"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setup.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1281c5810335d0ced951e3ad15e43f890db3bb31",
+      "size": 13407,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/1281c5810335d0ced951e3ad15e43f890db3bb31"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setup_Select.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06568f17038aee6e3d236f34b0745dc9a8e38084",
+      "size": 6740,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/06568f17038aee6e3d236f34b0745dc9a8e38084"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ebcba0a567bbc165ed32f15646408978c02bc9fd",
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/trees/ebcba0a567bbc165ed32f15646408978c02bc9fd"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup10_RPi_touch_ILI9486.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ffe2f7105f771e19dca43c89a2e1b769205f68a5",
+      "size": 1422,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/ffe2f7105f771e19dca43c89a2e1b769205f68a5"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup11_RPi_touch_ILI9486.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e2edbb3d2d6f0e38113e6016753db03ae1beca2f",
+      "size": 1310,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/e2edbb3d2d6f0e38113e6016753db03ae1beca2f"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup12_M5Stack.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4b50b878ce5cd49512118c2593078b6cd46dc4b",
+      "size": 1154,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/d4b50b878ce5cd49512118c2593078b6cd46dc4b"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup13_ILI9481_Parallel.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1758420835073f585e044982d32adcb1238bfaf5",
+      "size": 1437,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/1758420835073f585e044982d32adcb1238bfaf5"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup14_ILI9341_Parallel.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d19a827c104ca9d13ae2f5b07d80beb5b72c4656",
+      "size": 1447,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/d19a827c104ca9d13ae2f5b07d80beb5b72c4656"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup15_HX8357D.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4ee6141f5fab20505b85ce44461450f140fcd46",
+      "size": 1396,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/f4ee6141f5fab20505b85ce44461450f140fcd46"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup16_ILI9488_Parallel.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d3cb588c51915205d1309914d9529c6602aaaa9",
+      "size": 1416,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/5d3cb588c51915205d1309914d9529c6602aaaa9"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup17_ePaper.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "86d0e65243fa8df323a09ab8cce8a3ca501889af",
+      "size": 2249,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/86d0e65243fa8df323a09ab8cce8a3ca501889af"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup18_ST7789.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f9be03813a3954c6f422593e681289fdc02fcd6",
+      "size": 1976,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/1f9be03813a3954c6f422593e681289fdc02fcd6"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup1_ILI9341.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5514121cff5eba42f29edeae72befdfd4878688b",
+      "size": 1508,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/5514121cff5eba42f29edeae72befdfd4878688b"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup20_ILI9488.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d1eaf1ddac726e76afd53843eb33f7daa8782e0",
+      "size": 1397,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/7d1eaf1ddac726e76afd53843eb33f7daa8782e0"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup21_ILI9488.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "358eef488c7abfac8a9bcd332e74680d8fa8c393",
+      "size": 1411,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/358eef488c7abfac8a9bcd332e74680d8fa8c393"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup22_TTGO_T4.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cfed5b56f367920e019f9e078d4024b6f06171d4",
+      "size": 622,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/cfed5b56f367920e019f9e078d4024b6f06171d4"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup23_TTGO_TM.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "58468d5f970022a9160fe73dc25ed3ad8782b59e",
+      "size": 962,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/58468d5f970022a9160fe73dc25ed3ad8782b59e"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup24_ST7789.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d75b743393e17ef2841721529f602c6119aa264c",
+      "size": 1996,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/d75b743393e17ef2841721529f602c6119aa264c"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup2_ST7735.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9e618f81bf8ee998d6ed56ed2e72601ab5052d6",
+      "size": 1582,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/b9e618f81bf8ee998d6ed56ed2e72601ab5052d6"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup3_ILI9163.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f9b26562bf0a7b2f2fe4cfe30d4f783723e6da19",
+      "size": 1557,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/f9b26562bf0a7b2f2fe4cfe30d4f783723e6da19"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup43_ST7735.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8865f546d13bfa18ef6782854e3d7fa006a58c38",
+      "size": 1491,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/8865f546d13bfa18ef6782854e3d7fa006a58c38"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup4_S6D02A1.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "233117ca4a1931b59a279d6c1c3be571216527f7",
+      "size": 1509,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/233117ca4a1931b59a279d6c1c3be571216527f7"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup5_RPi_ILI9486.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba21c31280de4221d94ed6456ae1771660cca16a",
+      "size": 1353,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/ba21c31280de4221d94ed6456ae1771660cca16a"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup6_RPi_Wr_ILI9486.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "abeaddb9f631a5ac08d02ac50711fb1080645bfc",
+      "size": 1431,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/abeaddb9f631a5ac08d02ac50711fb1080645bfc"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup7_ST7735_128x128.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6821f47b4f2ed55bf2398a133a8971b9702bd118",
+      "size": 1576,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/6821f47b4f2ed55bf2398a133a8971b9702bd118"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup8_ILI9163_128x128.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da42ec301e762fd86b953089ea5d497061bb9326",
+      "size": 1561,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/da42ec301e762fd86b953089ea5d497061bb9326"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/Setup9_ST7735_Overlap.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2237893b379d91f67727b92e11f198fd4fa2aac7",
+      "size": 1574,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/2237893b379d91f67727b92e11f198fd4fa2aac7"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/SetupX_Template.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "534a63487fe4a0ad83130e34407783a4c93b7d10",
+      "size": 13151,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/534a63487fe4a0ad83130e34407783a4c93b7d10"
+    },
+    {
+      "path": "software/TFT_eSPI/User_Setups/User_Custom_Fonts.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2dc3d35c05bfc6b542e0f148a33c5dda1467849",
+      "size": 1740,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/f2dc3d35c05bfc6b542e0f148a33c5dda1467849"
+    },
+    {
+      "path": "software/TFT_eSPI/keywords.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f89d9816002c9b250d972bb2ed904039f21833f3",
+      "size": 2351,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/f89d9816002c9b250d972bb2ed904039f21833f3"
+    },
+    {
+      "path": "software/TFT_eSPI/library.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c264ba96519fea7687034c525614c50412ddc087",
+      "size": 540,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/c264ba96519fea7687034c525614c50412ddc087"
+    },
+    {
+      "path": "software/TFT_eSPI/library.properties",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be98ae8aba418e4e060c33ce55ac15313713d058",
+      "size": 365,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/be98ae8aba418e4e060c33ce55ac15313713d058"
+    },
+    {
+      "path": "software/TFT_eSPI/license.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a58b151138fb845b3c13022fd005a05b1297ce6a",
+      "size": 6042,
+      "url": "https://api.github.com/repos/Hak4Kidz/H4K-cryptex/git/blobs/a58b151138fb845b3c13022fd005a05b1297ce6a"
+    }
+  ],
+  "truncated": false
+}

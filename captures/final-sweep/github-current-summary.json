@@ -1,0 +1,105 @@
+{
+  "name": "github-current",
+  "url": "https://api.github.com/users/Hak4Kidz/repos?per_page=100",
+  "final": "https://api.github.com/users/Hak4Kidz/repos?per_page=100",
+  "status": 200,
+  "headers": {
+    "Date": "Sun, 27 Sep 2026 03:47:00 GMT",
+    "Content-Type": "application/json; charset=utf-8",
+    "Cache-Control": "public, max-age=60, s-maxage=60",
+    "Vary": "Accept,Accept-Encoding, Accept, X-Requested-With",
+    "ETag": "W/\"bc53437bd29b14d181b055b8f7fbb49fc9e4fcfee020dd853c269224b872db54\"",
+    "X-GitHub-Media-Type": "github.v3; format=json",
+    "x-github-api-version-selected": "2022-11-28",
+    "Access-Control-Expose-Headers": "ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset, Warning",
+    "Access-Control-Allow-Origin": "*",
+    "Strict-Transport-Security": "max-age=31536000; includeSubdomains; preload",
+    "X-Frame-Options": "deny",
+    "X-Content-Type-Options": "nosniff",
+    "X-XSS-Protection": "0",
+    "Referrer-Policy": "origin-when-cross-origin, strict-origin-when-cross-origin",
+    "Content-Security-Policy": "default-src 'none'",
+    "Server": "github.com",
+    "Accept-Ranges": "bytes",
+    "X-RateLimit-Limit": "60",
+    "X-RateLimit-Remaining": "59",
+    "X-RateLimit-Used": "1",
+    "X-RateLimit-Resource": "core",
+    "X-RateLimit-Reset": "1790484420",
+    "Transfer-Encoding": "chunked",
+    "X-GitHub-Request-Id": "C14B:32C81A:20441D2:69D2632:6AB891B4",
+    "x-github-edge-region": "iad",
+    "connection": "close"
+  },
+  "size": 90010,
+  "repos": [
+    [
+      "arduino-case",
+      "2017-01-11T21:05:17Z"
+    ],
+    [
+      "attiny",
+      "2021-07-15T22:34:56Z"
+    ],
+    [
+      "awesome-threat-intelligence",
+      "2022-05-26T17:11:10Z"
+    ],
+    [
+      "badge2018",
+      "2018-08-10T18:38:41Z"
+    ],
+    [
+      "cyphervillagectf.github.io",
+      "2024-04-02T11:19:06Z"
+    ],
+    [
+      "DevNetTest",
+      "2021-01-30T04:12:32Z"
+    ],
+    [
+      "express-hello-world",
+      "2024-09-11T22:55:21Z"
+    ],
+    [
+      "fbctf",
+      "2016-12-14T10:18:16Z"
+    ],
+    [
+      "fordbadge",
+      "2017-02-21T03:52:10Z"
+    ],
+    [
+      "game_of_life",
+      "2022-09-02T00:44:24Z"
+    ],
+    [
+      "grrcon0xa",
+      "2021-09-23T18:46:21Z"
+    ],
+    [
+      "H4K-badge-2019",
+      "2025-07-29T03:52:29Z"
+    ],
+    [
+      "H4K-cryptex",
+      "2021-10-01T15:21:34Z"
+    ],
+    [
+      "h4klab.github.io",
+      "2024-08-05T12:46:17Z"
+    ],
+    [
+      "meritbadgeworkshops.github.io",
+      "2025-10-28T03:52:21Z"
+    ],
+    [
+      "r00tzbadge",
+      "2016-08-20T03:59:42Z"
+    ],
+    [
+      "scavenger-hunt",
+      "2017-01-11T21:11:07Z"
+    ]
+  ]
+}

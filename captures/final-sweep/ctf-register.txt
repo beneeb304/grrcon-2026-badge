@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Fractured Timeline: Capture the Flag</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="/files/7c0b047b3c8d7a7ed39176ce3c68a274/jrctf_cracked_clock_favicon_32x32.png" type="image/x-icon">
+        <link rel="stylesheet" href="/themes/core/static/css/styles.min.css?d=676269ac">
+	<link rel="stylesheet" href="/themes/core/static/css/fonts.min.css?d=676269ac">
+	<link rel="stylesheet" href="/themes/core/static/css/main.min.css?d=676269ac">
+	<link rel="stylesheet" href="/themes/core/static/css/core.min.css?d=676269ac">
+	
+
+
+	
+	<script type="text/javascript">
+		var init = {
+			'urlRoot': "",
+			'csrfNonce': "a3f2ab07d2f2cb8782298d5b11939eb04d525a8ea0fd5504b29f9386d1a0fb30",
+			'userMode': "users",
+			'userId': 0,
+			'userName': null,
+			'userEmail': null,
+			'teamId': null, 
+			'teamName': null,
+			'start': 1780755900,
+			'end': 1780777800,
+			'theme_settings': null
+		}
+	</script>
+	
+
+</head>
+<body>
+	<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+    <div class="container">
+        <a href="/" class="navbar-brand">
+            
+                Fractured Timeline: Capture the Flag
+            
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#base-navbars"
+                aria-controls="base-navbars" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="base-navbars">
+            <ul class="navbar-nav mr-auto">
+                
+
+                
+                    <li class="nav-item">
+                        <a class="nav-link" href="/users">Users</a>
+                    </li>
+                    
+                
+
+                
+                    <li class="nav-item">
+                        <a class="nav-link" href="/scoreboard">Scoreboard</a>
+                    </li>
+                
+
+                <li class="nav-item">
+                    <a class="nav-link" href="/challenges">Challenges</a>
+                </li>
+            </ul>
+
+            <hr class="d-sm-flex d-md-flex d-lg-none">
+
+            <ul class="navbar-nav ml-md-auto d-block d-sm-flex d-md-flex">
+                
+                    
+                        <li class="nav-item">
+                            <a class="nav-link" href="/register">
+                                <span class="d-block" data-toggle="tooltip" data-placement="bottom" title="Register">
+                                    <i class="fas fa-user-plus d-none d-md-block d-lg-none"></i>
+                                </span>
+                                <span class="d-sm-block d-md-none d-lg-block">
+                                    <i class="fas fa-user-plus pr-1"></i>Register
+                                </span>
+                            </a>
+                        </li>
+                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="/login">
+                            <span class="d-block" data-toggle="tooltip" data-placement="bottom" title="Login">
+                                <i class="fas fa-sign-in-alt d-none d-md-block d-lg-none"></i>
+                            </span>
+                            <span class="d-sm-block d-md-none d-lg-block">
+                                <i class="fas fa-sign-in-alt pr-1"></i>Login
+                            </span>
+                        </a>
+                    </li>
+                
+            </ul>
+        </div>
+    </div>
+</nav>
+
+	<main role="main">
+		
+<div class="jumbotron">
+	<div class="container">
+		<h1>Register</h1>
+	</div>
+</div>
+<div class="container">
+	<div class="row">
+		<div class="col-md-6 offset-md-3">
+			<div>
+
+
+</div>
+
+			
+
+			
+			
+			<form method="post" accept-charset="utf-8" autocomplete="off" role="form">
+				<div class="form-group">
+					<b><label for="name">User Name</label></b>
+					<input autofocus class="form-control" id="name" name="name" required type="text" value="">
+					<small class="form-text text-muted">
+						Your username on the site
+					</small>
+				</div>
+				<div class="form-group">
+					<b><label for="email">Email</label></b>
+					<input class="form-control" id="email" name="email" required type="email" value="">
+					<small class="form-text text-muted">
+						Never shown to the public
+					</small>
+				</div>
+				<div class="form-group">
+					<b><label for="password">Password</label></b>
+					<input class="form-control" id="password" name="password" required type="password" value="">
+					<small class="form-text text-muted">
+						Password used to log into your account
+					</small>
+				</div>
+				<input id="nonce" name="nonce" type="hidden" value="a3f2ab07d2f2cb8782298d5b11939eb04d525a8ea0fd5504b29f9386d1a0fb30">
+
+				
+
+				<div class="row pt-3">
+					<div class="col-md-12">
+						<input class="btn btn-md btn-primary btn-outlined float-right" id="_submit" name="_submit" type="submit" value="Submit">
+					</div>
+				</div>
+
+				
+			</form>
+			
+		</div>
+	</div>
+</div>
+
+	</main>
+
+	<footer class="footer">
+		<div class="container text-center">
+			<a href="https://www.hak4kidz.com" class="text-secondary">
+				<small class="text-muted">Powered by Death Wish Dark Roast Coffee and adrenaline</small>
+			</a>
+		</div>
+	</footer>
+
+	<script defer src="/themes/core/static/js/vendor.bundle.min.js?d=676269ac"></script>
+	<script defer src="/themes/core/static/js/core.min.js?d=676269ac"></script>
+	<script defer src="/themes/core/static/js/helpers.min.js?d=676269ac"></script>
+
+	
+	<script defer src="/themes/core/static/js/pages/main.min.js?d=676269ac"></script>
+	
+
+	
+
+
+	
+
+	
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"633bd40320244836bef170475d8c8c23","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

@@ -1,0 +1,130 @@
+  |   |`---.  '.  |  |   |       |
+  |   |.-   |  |  |  |   |  .-.  |
+  |   || `-'   /  |  |   |  | |  |
+  `---' `----''   `--'   `--' `--'
+
+
+   Anniversary Challenge Badge!
+
+
+
+
+Congratulations! You found the start of the challenges.
+             Designed and written by Heal
+                   www.hak4kidz.com
+
+ACCESS DENIED. Attempts left: 1tes.
+
+Enter secret code to continue.CTF Server at this link:
+The secret code is the full name of the person you see.
+> Monnezza
+ACCESS DENIED. Attempts left: 0
+Too many incorrect guesses. name of the person you see.
+System shutdown......
+ACCESS DENIED. Attempts left: 2
+EEPROM Marker Dump:
+Addr 0: 0x47 (G)e to continue.
+Addr 1: 0x52 (R)is the full name of the person you see.
+Addr 2: 0x52 (R)afsaf
+Addr 3: 0x45 (E)
+Addr 4: 0x01 (.)
+Addr 5: 0x00 (.)
+
+
+probe...
+contact...
+handshake accepted.
+
+Checking firmware.......
+System booting..........
+
+
+
+
+
+
+    ______          __________  _   __
+   / ____/_________/ ____/ __ \/ | / /
+  / / __/ ___/ ___/ /   / / / /  |/ /
+ / /_/ / /  / /  / /___/ /_/ / /|  /
+ \____/_/  /_/   \____/\____/_/ |_/
+
+               .-') _    ('-. .-.
+              (  OO) )  ( OO )  /
+ .---..------./     '._ ,--. ,--.
+ /_   ||   ___||'--...__)|  | |  |
+  |   ||  '--. '--.  .--'|   .|  |
+  |   |`---.  '.  |  |   |       |
+  |   |.-   |  |  |  |   |  .-.  |
+  |   || `-'   /  |  |   |  | |  |
+  `---' `----''   `--'   `--' `--'
+
+
+   Anniversary Challenge Badge!
+
+
+
+
+Congratulations! You found the start of the challenges.
+             Designed and written by Heal
+                   www.hak4kidz.com
+
+Follow @Hak4Kidz for badge updates.
+
+For puzzle details, visit the CTF Server at this link:
+    https://bit.ly/GrrCON15
+
+Enter secret code to continue.
+The secret code is the full name of the person you see.
+> Monnezza
+ACCESS DENIED. Attempts left: 2
+
+Enter secret code to continue.
+The secret code is the full name of the person you see.
+> grrcon
+ACCESS DENIED. Attempts left: 1
+
+Enter secret code to continue.
+The secret code is the full name of the person you see.
+>
+EEPROM Marker Dump:
+Addr 0: 0x47 (G)
+Addr 1: 0x52 (R)
+Addr 2: 0x52 (R)
+Addr 3: 0x45 (E)
+Addr 4: 0x01 (.)
+Addr 5: 0x00 (.)
+
+
+probe...
+contact...
+handshake accepted.
+
+Checking firmware.......
+System booting..........
+
+
+
+
+
+
+    ______          __________  _   __
+   / ____/_________/ ____/ __ \/ | / /
+  / / __/ ___/ ___/ /   / / / /  |/ /
+ / /_/ / /  / /  / /___/ /_/ / /|  /
+ \____/_/  /_/   \____/\____/_/ |_/
+
+               .-') _    ('-. .-.
+              (  OO) )  ( OO )  /
+ .---..------./     '._ ,--. ,--.
+ /_   ||   ___||'--...__)|  | |  |
+  |   ||  '--. '--.  .--'|   .|  |
+  |   |`---.  '.  |  |   |       |
+  |   |.-   |  |  |  |   |  .-.  |
+  |   || `-'   /  |  |   |  | |  |
+  `---' `----''   `--'   `--' `--'
+
+
+   Anniversary Challenge Badge!
+
+

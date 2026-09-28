@@ -1,0 +1,972 @@
+{
+  "5327": {
+    "direction_bits": "110110010100011100111011100101001010110101000101101010000111100010100001101111111010111000??01001010110011110100011000",
+    "candidates": [
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 0,
+        "reversed": false,
+        "text": "lQg9%5.(<(7z..Yt",
+        "printable_fraction": 0.8125
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 0,
+        "reversed": true,
+        "text": ".EsNRVh...v/..M.",
+        "printable_fraction": 0.5625
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 1,
+        "reversed": false,
+        "text": "Y#NrJj.PxPou.%3h",
+        "printable_fraction": 0.875
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 1,
+        "reversed": true,
+        "text": "Mb9')+4...{W.Rf.",
+        "printable_fraction": 0.6875
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 2,
+        "reversed": false,
+        "text": "2G.e.T-!q!_k.JgQ",
+        "printable_fraction": 0.8125
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 2,
+        "reversed": true,
+        "text": "&q\\ST.ZBGB}k.)sE",
+        "printable_fraction": 0.875
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 3,
+        "reversed": false,
+        "text": "e.;J+(ZCbC?W..O#",
+        "printable_fraction": 0.8125
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 3,
+        "reversed": true,
+        "text": "S8n)j.-a#a~u.Tyb",
+        "printable_fraction": 0.875
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 4,
+        "reversed": false,
+        "text": "J.w.VQ5.E....+.F",
+        "printable_fraction": 0.5625
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 4,
+        "reversed": true,
+        "text": ").w.5EVpQ0.:.j<1",
+        "printable_fraction": 0.75
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 5,
+        "reversed": false,
+        "text": ".9n)-\"j...~\\.V=.",
+        "printable_fraction": 0.625
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 5,
+        "reversed": true,
+        "text": ".N;JZ\"+x(X?..5^.",
+        "printable_fraction": 0.75
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 6,
+        "reversed": false,
+        "text": "(s\\RZET...}8.,z.",
+        "printable_fraction": 0.6875
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 6,
+        "reversed": true,
+        "text": ".g.%-Q.<.l_.../.",
+        "printable_fraction": 0.5
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 0,
+        "reversed": false,
+        "text": "...FZJtWCWH...&.",
+        "printable_fraction": 0.625
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 0,
+        "reversed": true,
+        "text": "d:.1-).uau.P..2h",
+        "printable_fraction": 0.6875
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 1,
+        "reversed": false,
+        "text": "&\\1.5.i/./...ZL.",
+        "printable_fraction": 0.5625
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 1,
+        "reversed": true,
+        "text": "2.FXVTKzpz.(.-.t",
+        "printable_fraction": 0.75
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 2,
+        "reversed": false,
+        "text": "M8b.j+R^.^ ..5..",
+        "printable_fraction": 0.6875
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 2,
+        "reversed": true,
+        "text": "Y.#,+j%=8=...V.:",
+        "printable_fraction": 0.6875
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 3,
+        "reversed": false,
+        "text": ".qD5TW%<.<@(.j0\\",
+        "printable_fraction": 0.8125
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 3,
+        "reversed": true,
+        "text": ",G.V.uR.\\....+..",
+        "printable_fraction": 0.4375
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 4,
+        "reversed": false,
+        "text": "5c.k).Jx:y.Q.Ta9",
+        "printable_fraction": 0.8125
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 4,
+        "reversed": true,
+        "text": "Vc.kJ:)..O.E..CN",
+        "printable_fraction": 0.6875
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 5,
+        "reversed": false,
+        "text": "kF.VR].pur.#.)Bs",
+        "printable_fraction": 0.75
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 5,
+        "reversed": true,
+        "text": "k1D5%]T.W'@b.J!g",
+        "printable_fraction": 0.875
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 6,
+        "reversed": false,
+        "text": "W.#-%:+akd.G.S.g",
+        "printable_fraction": 0.75
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 6,
+        "reversed": true,
+        "text": "u.bZR.jCk. q.ePs",
+        "printable_fraction": 0.8125
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 0,
+        "reversed": false,
+        "text": ".G;..E.x......",
+        "printable_fraction": 0.2857142857142857
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 0,
+        "reversed": true,
+        "text": "...)......u.5/",
+        "printable_fraction": 0.2857142857142857
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 1,
+        "reversed": false,
+        "text": "..w)Z.P.C.\\.Y.",
+        "printable_fraction": 0.5
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 1,
+        "reversed": true,
+        "text": "Mq..Z.....:...",
+        "printable_fraction": 0.2857142857142857
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 2,
+        "reversed": false,
+        "text": "e..R..........",
+        "printable_fraction": 0.14285714285714285
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 2,
+        "reversed": true,
+        "text": ".8wJ.h.Ga.....",
+        "printable_fraction": 0.42857142857142855
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 3,
+        "reversed": false,
+        "text": ".9..j-C.....g.",
+        "printable_fraction": 0.35714285714285715
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 3,
+        "reversed": true,
+        "text": "S.;.V.........",
+        "printable_fraction": 0.21428571428571427
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 4,
+        "reversed": false,
+        "text": ".s.J.Z.....J.F",
+        "printable_fraction": 0.35714285714285715
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 4,
+        "reversed": true,
+        "text": ")..R+Z.Q._.R.b",
+        "printable_fraction": 0.5714285714285714
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 5,
+        "reversed": false,
+        "text": "(.r.....7.....",
+        "printable_fraction": 0.21428571428571427
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 5,
+        "reversed": true,
+        "text": "..N....(....y1",
+        "printable_fraction": 0.2857142857142857
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 6,
+        "reversed": false,
+        "text": "Q..+Qj.(o..+=.",
+        "printable_fraction": 0.5714285714285714
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 6,
+        "reversed": true,
+        "text": ".s...Vx.......",
+        "printable_fraction": 0.21428571428571427
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 7,
+        "reversed": false,
+        "text": "...V..<P...Vz",
+        "printable_fraction": 0.38461538461538464
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 7,
+        "reversed": true,
+        "text": "..SjE+<....j^",
+        "printable_fraction": 0.5384615384615384
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 0,
+        "reversed": false,
+        "text": "&..kR.W.^@Q.S.",
+        "printable_fraction": 0.5714285714285714
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 0,
+        "reversed": true,
+        "text": "d.#.J]..z.....",
+        "printable_fraction": 0.35714285714285715
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 1,
+        "reversed": false,
+        "text": "Mq...t........",
+        "printable_fraction": 0.21428571428571427
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 1,
+        "reversed": true,
+        "text": "...k...p=...e.",
+        "printable_fraction": 0.35714285714285715
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 2,
+        "reversed": false,
+        "text": "....J.^.y.G.L.",
+        "printable_fraction": 0.42857142857142855
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 2,
+        "reversed": true,
+        "text": "Y...R.z.....2t",
+        "printable_fraction": 0.35714285714285715
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 3,
+        "reversed": false,
+        "text": "5.#Z...:.....\\",
+        "printable_fraction": 0.35714285714285715
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 3,
+        "reversed": true,
+        "text": ".c.Z.K=\\O@...:",
+        "printable_fraction": 0.5714285714285714
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 4,
+        "reversed": false,
+        "text": "k.F.+.xu....0.",
+        "printable_fraction": 0.42857142857142855
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 4,
+        "reversed": true,
+        "text": ".1b.....'.....",
+        "printable_fraction": 0.21428571428571427
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 5,
+        "reversed": false,
+        "text": "...jWJ.....jas",
+        "printable_fraction": 0.42857142857142855
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 5,
+        "reversed": true,
+        "text": "...V.R...P.V..",
+        "printable_fraction": 0.2857142857142857
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 6,
+        "reversed": false,
+        "text": ".1............",
+        "printable_fraction": 0.07142857142857142
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 6,
+        "reversed": true,
+        "text": "u.X+u....(.+C.",
+        "printable_fraction": 0.5
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 7,
+        "reversed": false,
+        "text": "\\b5.]+.. (...",
+        "printable_fraction": 0.5384615384615384
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 7,
+        "reversed": true,
+        "text": ":F...........",
+        "printable_fraction": 0.15384615384615385
+      }
+    ]
+  },
+  "5328": {
+    "direction_bits": "00110000000010011001101011101011001011000101110000111010001010011001101011101011111001010000011110010001011110101011011011111110000",
+    "candidates": [
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 0,
+        "reversed": false,
+        "text": "..3.Y18:.f]>(.\"z[?",
+        "printable_fraction": 0.7777777777777778
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 0,
+        "reversed": true,
+        "text": ". f:MF...3]>.<\"/m~",
+        "printable_fraction": 0.7777777777777778
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 1,
+        "reversed": false,
+        "text": "0.f]2bpt)M:|P<Eu6.",
+        "printable_fraction": 0.8888888888888888
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 1,
+        "reversed": true,
+        "text": "..3]&#..JY....QW6.",
+        "printable_fraction": 0.5555555555555556
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 2,
+        "reversed": false,
+        "text": "`.M:eEahS.uy y.jm~",
+        "printable_fraction": 0.8333333333333334
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 2,
+        "reversed": true,
+        "text": ".HY.SQC.e,WO.Oh+[?",
+        "printable_fraction": 0.8333333333333334
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 3,
+        "reversed": false,
+        "text": "@..uK.CQ&5krAr.U[|",
+        "printable_fraction": 0.7777777777777778
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 3,
+        "reversed": true,
+        "text": ".d,WihaE2Vk'A'tUm.",
+        "printable_fraction": 0.8888888888888888
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 4,
+        "reversed": false,
+        "text": ".&5k...\"LkWe.d/+7x",
+        "printable_fraction": 0.7222222222222222
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 4,
+        "reversed": true,
+        "text": ".2Vk4tp\".kuS`.zjv.",
+        "printable_fraction": 0.7777777777777778
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 5,
+        "reversed": false,
+        "text": ".LkV,..E.W/J.H^Vop",
+        "printable_fraction": 0.7777777777777778
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 5,
+        "reversed": true,
+        "text": "..k5.:8QLuz)p.=5{.",
+        "printable_fraction": 0.7222222222222222
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 6,
+        "reversed": false,
+        "text": "..W,X\\..3._...=-_",
+        "printable_fraction": 0.5882352941176471
+      },
+      {
+        "width": 7,
+        "inverted": false,
+        "offset": 6,
+        "reversed": true,
+        "text": "@Lu...\\(f:}.xD^Z}",
+        "printable_fraction": 0.7647058823529411
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 0,
+        "reversed": false,
+        "text": "g}LQ&NGEk.\"AWa].$@",
+        "printable_fraction": 0.8888888888888888
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 0,
+        "reversed": true,
+        "text": "s_.E29qQkL\"AuC]P..",
+        "printable_fraction": 0.8333333333333334
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 1,
+        "reversed": false,
+        "text": "O{.\"M...V2E./C:.I.",
+        "printable_fraction": 0.6111111111111112
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 1,
+        "reversed": true,
+        "text": "yoL\"Y\\xh5&Q`za.(I.",
+        "printable_fraction": 0.9444444444444444
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 2,
+        "reversed": false,
+        "text": ".v2E.:..,e.._.t...",
+        "printable_fraction": 0.4444444444444444
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 2,
+        "reversed": true,
+        "text": "|7&Q,.<t.S(0}0.T$@",
+        "printable_fraction": 0.8888888888888888
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 3,
+        "reversed": false,
+        "text": "?le.4t<.YJ..>.h*$.",
+        "printable_fraction": 0.7222222222222222
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 3,
+        "reversed": true,
+        "text": "~.S(...:M).X>X.*.`",
+        "printable_fraction": 0.6111111111111112
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 4,
+        "reversed": false,
+        "text": ".YJ.ihx]3.(.|.PTH.",
+        "printable_fraction": 0.6666666666666666
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 4,
+        "reversed": true,
+        "text": ".M).K..]f..,.l...p",
+        "printable_fraction": 0.4444444444444444
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 5,
+        "reversed": false,
+        "text": ".3.)SQq:f(P5x7!)..",
+        "printable_fraction": 0.7777777777777778
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 5,
+        "reversed": true,
+        "text": ".f.JeEG.3..V.vBJ.x",
+        "printable_fraction": 0.6666666666666666
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 6,
+        "reversed": false,
+        "text": "~f(S'#buLQ kpnBR ",
+        "printable_fraction": 1.0
+      },
+      {
+        "width": 7,
+        "inverted": true,
+        "offset": 6,
+        "reversed": true,
+        "text": "?3.erb#W.E.k.;!%.",
+        "printable_fraction": 0.7058823529411765
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 0,
+        "reversed": false,
+        "text": "0...,\\:).....z..",
+        "printable_fraction": 0.375
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 0,
+        "reversed": true,
+        "text": "..Y.4:\\.Y....^m.",
+        "printable_fraction": 0.4375
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 1,
+        "reversed": false,
+        "text": "`.5.X.tS5...\".m.",
+        "printable_fraction": 0.5
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 1,
+        "reversed": true,
+        "text": "...k......S.D..?",
+        "printable_fraction": 0.3125
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 2,
+        "reversed": false,
+        "text": ".&k..p..k...E...",
+        "printable_fraction": 0.3125
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 2,
+        "reversed": true,
+        "text": ".d.5...e..)x.W..",
+        "printable_fraction": 0.375
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 3,
+        "reversed": false,
+        "text": ".L.Yb..L._(<....",
+        "printable_fraction": 0.4375
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 3,
+        "reversed": true,
+        "text": ".2..F..2...<....",
+        "printable_fraction": 0.25
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 4,
+        "reversed": false,
+        "text": "..........Py..o",
+        "printable_fraction": 0.2
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 4,
+        "reversed": true,
+        "text": "..uM..E.u}.....",
+        "printable_fraction": 0.3333333333333333
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 5,
+        "reversed": false,
+        "text": ".3]e..E3]|../V.",
+        "printable_fraction": 0.6
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 5,
+        "reversed": true,
+        "text": ".........>.O.j.",
+        "printable_fraction": 0.2
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 6,
+        "reversed": false,
+        "text": ".f.....f..A.^..",
+        "printable_fraction": 0.26666666666666666
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 6,
+        "reversed": true,
+        "text": "@f]..pQf]..'z..",
+        "printable_fraction": 0.6
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 7,
+        "reversed": false,
+        "text": "..u.....u....[.",
+        "printable_fraction": 0.26666666666666666
+      },
+      {
+        "width": 8,
+        "inverted": false,
+        "offset": 7,
+        "reversed": true,
+        "text": " ..it.(..O.....",
+        "printable_fraction": 0.3333333333333333
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 0,
+        "reversed": false,
+        "text": "..e.....e...n.I.",
+        "printable_fraction": 0.25
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 0,
+        "reversed": true,
+        "text": ".o.(...k.(X.v...",
+        "printable_fraction": 0.375
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 1,
+        "reversed": false,
+        "text": "...).G...(5.....",
+        "printable_fraction": 0.25
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 1,
+        "reversed": true,
+        "text": ".7S....5S....PI.",
+        "printable_fraction": 0.375
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 2,
+        "reversed": false,
+        "text": "?..SN..Y.Pk...$.",
+        "printable_fraction": 0.4375
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 2,
+        "reversed": true,
+        "text": "..).r...)...].$.",
+        "printable_fraction": 0.3125
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 3,
+        "reversed": false,
+        "text": "..(.....(...t*H.",
+        "printable_fraction": 0.375
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 3,
+        "reversed": true,
+        "text": "...e.xt......T..",
+        "printable_fraction": 0.3125
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 4,
+        "reversed": false,
+        "text": ".fQM:<]fQA...T.",
+        "printable_fraction": 0.6666666666666666
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 4,
+        "reversed": true,
+        "text": ".f..\\<.f...a.*.",
+        "printable_fraction": 0.4
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 5,
+        "reversed": false,
+        "text": "....tx...._... ",
+        "printable_fraction": 0.26666666666666666
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 5,
+        "reversed": true,
+        "text": ".3EY..]3E......",
+        "printable_fraction": 0.4666666666666667
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 6,
+        "reversed": false,
+        "text": "..E4..u.E....R@",
+        "printable_fraction": 0.4
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 6,
+        "reversed": true,
+        "text": "...,.....`}..J.",
+        "printable_fraction": 0.26666666666666666
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 7,
+        "reversed": false,
+        "text": ".2.i...2..|7B..",
+        "printable_fraction": 0.4
+      },
+      {
+        "width": 8,
+        "inverted": true,
+        "offset": 7,
+        "reversed": true,
+        "text": ".LQ..G.LQ.>.B%.",
+        "printable_fraction": 0.5333333333333333
+      }
+    ]
+  }
+}

@@ -1,0 +1,467 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+	<meta name="generator" content="Hugo 0.18.1" />
+		<title>Hak4Kidz | Home</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		
+		<link rel="stylesheet" href="/css/main.css" />
+		
+		
+		
+ 		<meta name="keywords" content="" />
+		<meta name="description" content="" />
+		<meta name="google-site-verification" content="dvvKhWQPQOfx9XT9TL7RMQMfv-VDhko8dPkw23ivV7M" />
+		
+		<script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+
+		  _gaq.push(['_setAccount', 'UA-51057316-1']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		</script>
+	</head>
+	<body>
+
+		
+			<div id="header">
+
+				<div class="top">
+
+					
+						<div id="logo">
+							<span class="image avatar48"><img src="img/avatar.jpg" alt="" /></span>
+							<h1 id="title">Hak4Kidz</h1>
+							<p></p>
+						</div>
+
+					
+						<nav id="nav">
+							
+							<ul>
+								<li><a href="#top" id="top-link" class="skel-layers-ignoreHref"><span class="icon fa-home">Home</span></a></li>
+								<li><a href="#events" id="top-link" class="skel-layers-ignoreHref"><span class="icon fa-calendar">Events</span></a></li>
+								<li><a href="#activities" id="top-link" class="skel-layers-ignoreHref"><span class="icon fa-mortar-board">Activities</span></a></li>
+								<li><a href="#library" id="top-link" class="skel-layers-ignoreHref"><span class="icon fa-book">Library</span></a></li>
+								<li><a href="#fll" id="portfolio-link" class="skel-layers-ignoreHref"><span class="icon fa-cogs">FIRST LEGO League Team</span></a></li>
+								<li><a href="#gallery" id="portfolio-link" class="skel-layers-ignoreHref"><span class="icon fa-camera-retro">Gallery</span></a></li>
+								<li><a href="#believers" id="portfolio-link" class="skel-layers-ignoreHref"><span class="icon fa-support">Believe</span></a></li>
+								<li><a href="#cfp" id="portfolio-link" class="skel-layers-ignoreHref"><span class="icon fa-commenting-o">CFP</span></a></li>
+								<li><a href="#contests" id="portfolio-link" class="skel-layers-ignoreHref"><span class="icon fa-gamepad">Contests</span></a></li>
+								<li><a href="#press" id="about-link" class="skel-layers-ignoreHref"><span class="icon fa-users">Press</span></a></li>
+								<li><a href="#about" id="about-link" class="skel-layers-ignoreHref"><span class="icon fa-users">About</span></a></li>
+								<li><a href="#contact" id="contact-link" class="skel-layers-ignoreHref"><span class="icon fa-envelope-o">Contact</span></a></li>
+							</ul>
+						</nav>
+
+				</div>
+
+				<div class="bottom">
+
+					
+						<ul class="icons">
+              
+              <li><a href="https://twitter.com/hak4kidz" class="icon fa-twitter"><span class="label">twitter</span></a></li>
+              
+              <li><a href="https://www.facebook.com/hak4kidz" class="icon fa-facebook"><span class="label">facebook</span></a></li>
+              
+              <li><a href="https://github.com/Hak4Kidz" class="icon fa-github"><span class="label">github</span></a></li>
+              
+              <li><a href="#" class="icon fa-dribbble"><span class="label">dribbble</span></a></li>
+              
+              <li><a href="mailto:questions@hak4kidz.com" class="icon fa-envelope"><span class="label">email</span></a></li>
+              
+						</ul>
+
+				</div>
+
+			</div>
+
+		
+			<div id="main">
+
+				
+					<section id="top" class="one dark cover">
+						<div class="container">
+
+							<header>
+								<h2 class="alt"><strong>Hak4Kidz</strong> young ethical hacker conferences and villages.</h2>
+								<p>Attend one of our events, villages, join or form a FLL team, or just give us some money.</p>
+							</header>
+
+							<footer>
+								<a href="#" class="button scrolly">Some button</a>
+							</footer>
+
+						</div>
+					</section>
+					
+				
+					<section id="events" class="two">
+						<div class="container">
+
+							<header>
+								<h2 class="alt">Hak4Kidz 2017 Events lineup</strong><br /></h2>
+								<p>Robots are cool!<br />
+								We design, build, code, test, and compete with LEGO EV3 robots.</p>
+							</header>
+							
+			  	
+			  	<dl>
+				<dt>   <h3>$_./etc/hosts.allow.DEARBORN</h3></dt>
+				<dt>   <h4>FORD.PRIVATE.EVENT</h4></dt>
+				<dd>
+				  <p>
+				  <strong>When:</strong> February 25, 2017, Check-in begins 8:30am day ends at 3pm<br>
+				  <strong>Where:</strong> <a href="https://www.thehenryford.org/" target="new">The Henry Ford</a>, 20900 Oakwood Boulevard, Dearborn, MI 48124<br>
+				  <strong>Registration:</strong> ** SENT BY PRIVATE EMAIL ** <br>
+				  <strong>Activities:</strong> <a href ="#" target="new"></a>Compiling...please wait.<br>
+				<strong>** Bring A Laptop For Your Kid(z) **</strong><br>
+				</p></dd>
+				</dl>
+				
+								<dl>
+				<dt><h3>$_INDIANAPOLIS </h3></dt>
+				<dd>
+				 <p>   
+				  <strong>When:</strong> March 11, 2017, Opens at 9am<br>
+				  <strong>Where:</strong> <a href="http://www.bsidesindy.com/" target="new">BSides Indy</a> Ivy Tech Corporate College and
+Culinary Center, 2820 North Meridian Street, Indianapolis, IN <br>
+				  <strong>Registration:</strong> ** <a href="https://bsidesindy2017.busyconf.com/bookings/new" target="new">INCLUDED WITH ADULT</a> ** <br>
+				  <strong>Activities:</strong> ** <a href ="#" target="new"></a>Compiling...please wait.<br>
+				  <strong>** Bring A Laptop For Your Kid(z) **</strong><br>
+				  </p></dd>
+				</dl>
+				
+				
+			  	<dl>
+				<dt>   <h3>$_BLOOMCON</h3></dt>
+				<dd>
+				  <p>
+				  <strong>When:</strong> March 25, 2017, Check-in begins 8:30am day ends at 5pm<br>
+				  <strong>Where:</strong> <a href="http://bloomcon.com/" target="new">BloomCON</a> Kehr Union, Bloomburgs University, 400 East Second St., Bloomsburg, PA<br>
+				  <strong>Registration:</strong> ** <a href="https://www.eventbrite.com/e/bloomcon-0x02-forensics-and-security-conference-tickets-28842165694" border="0" target="new">OPEN via BloomCON</a> ** <br>
+				  
+				  <strong>Activities:</strong> <a href ="#" target="new"></a>Compiling...please wait.<br>
+				
+				<strong>** Bring A Laptop For Your Kid(z) **</strong><br>
+				
+				</p></dd>
+				</dl>
+				
+				<dl>
+				<dt>   <h3>$_MILWAUKEE</h3></dt>
+				<dd>
+				  <p>
+				  <strong>When:</strong> April 1, 2017 (not a joke), Opening Ceremonies begin 9am day ends at 4pm<br>
+				  <strong>Where:</strong> <a href="https://cyphercon.com/" target="new">CypherCon</a> Discovery World 500 N Harbor Dr, Milwaukee, WI<br>
+				  <strong>Registration:</strong> ** <a href="https://www.123signup.com/register?id=nqnfc" border="0" target="new">OPEN</a> ** <br>
+				  <strong>Registration ends:</strong> ** March 24th, 2017 ** <br> 
+				  <strong>CFP Opens:</strong> ** <a href ="./cfp/mke.html" target="new">January 1, 2017</a> **<br>
+				  <strong>CFP Closes:</strong> February 15, 2017 <br>
+				  
+				  <strong>** Bring A Laptop For Your Kid(z) **</strong>
+				  
+							
+				</p></dd>
+				</dl>
+				
+				<dl>				
+				<dt>   <h3>$_NEW_ORLEANS </h3></dt>
+				<dd>
+				  <p> 
+				  <strong>When:</strong> May 20, 2017, 8:30am doors open, Opening Ceremonies begin 9am<br>
+				  <strong>Where:</strong> <a href="https://nolacon.com/" target="new">NolaCon</a> <a href="https://www.ihg.com/crowneplaza/hotels/us/en/new-orleans/msyla/hoteldetail/events-facilities?cm_mmc=GoogleMaps-_-CP-_-USA-_-MSYLA#scmisc=nav_events-facilities_cp/" target="new">The Crowne Plaza Hotel</a>  @ Bourbon and Canal<br>
+				  <strong>Registration:</strong> ** OPENING SOON</a> ** <br>
+				  <strong>Registration ends:</strong> May 19, 2017 <br> 
+				
+				  <strong>** Bring A Laptop For Your Kid(z) **</strong><br>
+				  
+				</p>
+				</dd>  
+				</dl>
+				
+				<dl>				
+				<dt>   <h3>$_CHICAGO </h3></dt>
+				<dd>
+				  <p> 
+				  <strong>When:</strong> June 3, 2017, 8:30am doors open, Opening Ceremonies begin 9am<br>
+				  <strong>Where:</strong> <a href="http://www.technexus.com/" target="new">TechNexus</a> 20 N. Wacker Drive, Suite 1200, Chicago, IL<br>
+				  <strong>Registration:</strong> ** <a href="https://www.123signup.com/register?id=nznkb" border="0" target="new">OPEN</a> ** <br>
+				  <strong>Registration ends:</strong> May 27, 2017 <br> 
+				
+				  <strong>CFP Opens:</strong> ** <a href ="cfp/" target="new">OPEN</a> **<br>
+				  <strong>CFP Closes:</strong> April 17, 2017 <br>
+				  <strong>** Bring A Laptop For Your Kid(z) **</strong><br>
+				  
+				</p>
+				</dd>  
+				</dl>
+
+				<dl>
+				<dt><h3>$_INDIANAPOLIS 2.0</h3></dt>
+				<dd>
+				 <p>   
+				  <strong>When:</strong> June 10, 2017, Opening Ceremonies begin 9am<br>
+				  <strong>Where:</strong> <a href="http://www.circlecitycon.com/" target="new">CircleCityCon</a> Sheraton Indianapolis City Centre Hotel, 31 West Ohio Street, Indianapolis, IN 46204<br>
+				  <strong>Registration:</strong> ** <a href="https://circlecitycon.com/tickets/" target="new">INCLUDED WITH ADULT</a> ** <br>
+			    
+				
+				  <strong>Activities:</strong> ** <a href ="activities/c3.html" target="new">CircleCityCon Activities</a><br>
+				  <strong>** Bring A Laptop For Your Kid(z) **</strong><br>
+				  </p></dd>
+				</dl>
+				
+				
+				   
+				  
+				
+				
+				
+				<dl>
+				<dt>   <h3>$_GRAND_RAPIDS</h3></dt>
+				
+				<dd>
+				 <p>
+				  <strong>When:</strong> October 27, 2017, Opening Ceremonies begin 9am days ends at 5pm<br>
+				  <strong>Where:</strong> <a href="http://www.grrcon.com/" target="new">GrrCON</a> DeVos Place - 303 Monroe Ave. NW – Grand Rapids, MI<br>
+				  <strong>Registration:</strong> ** CLOSED ** <br>
+				  <strong>Registration ends:</strong> October 26, 2017<br> 
+				  <strong>Workshop Registration:</strong> ** SIGN UP AT GRRCON ON THURSDAY **<br>
+				  
+				  <strong>Activities:</strong> ** <a href ="activities/grr.html" target="new">GrrCON Kidz Activities</a><br>
+				  <strong>** Bring A Laptop For Your Kid(z) **</strong>
+				 </p></dd> 
+				</dl>
+				
+				<dl>
+				<dt>   <h3>$_TORONTO -> RESCHEDULED</h3></dt>
+				<dd>
+				  <p>
+				  <strong>When:</strong> RESCHEDULED FOR SPRING 2017<br>
+				  <strong>Where:</strong> TBD <br>
+				  <strong>Registration:</strong> ** CLOSED ** <br>
+				  <strong>Registration ends:</strong> ** CLOSED ** <br> 
+				  <strong>Workshop Registration:</strong> ** CLOSED **<br>
+				  <strong>Activities:</strong> ** <a href ="activities/tor.html" target="new">Toronto Kidz Activities</a><br>
+				  <strong>** Bring A Laptop For Your Kid(z) **</strong>
+				
+				
+				</p></dd>
+				</dl>
+				
+				<dl>
+				<dt>   <h3>$_GHENT</h3></dt>
+				<dd>
+				  <p>
+				  <strong>When:</strong> October 1, 2017, Opening Ceremonies begin 9am day ends at 5pm<br>
+				  <strong>Where:</strong> <a href="http://www.hak4kidz.be" target="new">Partnership with BruCON</a> Ghent, Belgium<br>
+				  <strong>Registration:</strong> ** <a href="https://registration.brucon.org/hak4kidz/" border="0" target="new">OPEN</a> ** <br>
+				  
+				  <strong>Workshop Registration:</strong> Day of the event at check-in<br> 
+				  <strong>Activities:</strong> <a href ="http://www.hak4kidz.be/program/" target="new">Hak4Kidz Belgium Activities</a><br>
+				
+				<strong>** Bring A Laptop For Your Kid(z) **</strong>
+				
+				</p></dd>
+				</dl>
+
+
+						</div>
+					</section>
+
+				
+					<section id="fll" class="three">
+						<div class="container">
+
+							<header>
+								<h2>FIRST LEGO League Team</h2>
+							</header>
+
+							<a href="#" class="image featured"><img src="img/fll.jpg" alt="" /></a>
+
+							<p>Robots are cool!<br />
+								We design, build, code, test, and compete with LEGO EV3 robots.</p>
+
+						</div>
+					</section>
+
+				
+					<section id="gallery" class="four">
+						<div class="container">
+
+							<header>
+								<h2>Gallery</h2>
+							</header>
+
+							<p>Vitae natoque dictum etiam semper magnis enim feugiat convallis convallis
+							egestas rhoncus ridiculus in quis risus amet curabitur tempor orci penatibus.
+							Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis
+							fusce hendrerit lacus ridiculus.</p>
+
+
+              <div class="row">
+                <div class="4u 12u$(mobile)">
+                   
+                  <article class="item">
+                    <a href="#" class="image fit"><img src="img/pic02.jpg" alt="" /></a>
+                    <header>
+                      <h3>Ipsum Feugiat</h3>
+                    </header>
+                  </article>
+                   
+                  <article class="item">
+                    <a href="#" class="image fit"><img src="img/pic03.jpg" alt="" /></a>
+                    <header>
+                      <h3>Rhoncus Semper</h3>
+                    </header>
+                  </article>
+                  
+                </div>
+
+                <div class="4u 12u$(mobile)">
+                   
+                  <article class="item">
+                    <a href="#" class="image fit"><img src="img/pic04.jpg" alt="" /></a>
+                    <header>
+                      <h3>Magna Nullam</h3>
+                    </header>
+                  </article>
+                   
+                  <article class="item">
+                    <a href="#" class="image fit"><img src="img/pic05.jpg" alt="" /></a>
+                    <header>
+                      <h3>Natoque Vitae</h3>
+                    </header>
+                  </article>
+                  
+                </div>
+
+                <div class="4u 12u$(mobile)">
+                   
+                  <article class="item">
+                    <a href="#" class="image fit"><img src="img/pic06.jpg" alt="" /></a>
+                    <header>
+                      <h3>Dolor Penatibus</h3>
+                    </header>
+                  </article>
+                   
+                  <article class="item">
+                    <a href="#" class="image fit"><img src="img/pic07.jpg" alt="" /></a>
+                    <header>
+                      <h3>Orci Convallis</h3>
+                    </header>
+                  </article>
+                  
+                </div>
+              </div>
+
+
+						</div>
+					</section>
+
+				
+					<section id="believers" class="five">
+						<div class="container">
+
+							<header>
+								<h2>Be a Believer</h2>
+							</header>
+
+							<a href="#" class="image featured"><img src="img/believer.jpg" alt="" /></a>
+
+							<p>When you shop at AmazonSmile, Amazon will donate .5% of your order when you use this <a href="https://smile.amazon.com/ch/46-5659249" target="new">link</a>.</p>
+												
+							<footer>
+								
+								<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="new">
+								   <input type="hidden" name="cmd" value="_s-xclick">
+								   <input type="hidden" name="hosted_button_id" value="6BL8NS3DJCC2S">
+								   <input type="submit" value="Believe Here" name="submit" title="PayPal - The safer, easier way to pay online!" class="paypal_btn">
+								   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+								</form>
+							</footer>
+
+						</div>
+					</section>
+
+				
+					<section id="about" class="six">
+						<div class="container">
+
+							<header>
+								<h2>About Hak4Kidz</h2>
+							</header>
+
+							<a href="#" class="image featured"><img src="img/about.jpg" alt="" /></a>
+
+							<p>Hak4Kidz is the first official youth based <strong>ethical</strong> hacking conference in Chicago that is <strong>*not*</strong> a hackathon.</p>
+							
+							<p>The mission is to educate young minds on the importance of Internet safety, cyber-security, anti-cyberbullying, and STEHM (STEM with an ethical Hacking mindset).</p>
+							
+							<p>ak4Kidz is dedicated to educating youths on cyber-security, along with the communical benefits of conferences and ethical hacking.</p>
+
+						</div>
+					</section>
+
+				
+					<section id="contact" class="seven">
+						<div class="container">
+
+							<header>
+								<h2>Contact</h2>
+							</header>
+
+							<p>Elementum sem parturient nulla quam placerat viverra
+							mauris non cum elit tempus ullamcorper dolor. Libero rutrum ut lacinia
+							donec curae mus. Eleifend id porttitor ac ultricies lobortis sem nunc
+							orci ridiculus faucibus a consectetur. Porttitor curae mauris urna mi dolor.</p>
+
+							<form method="post" action="#">
+								<div class="row">
+									<div class="6u 12u$(mobile)"><input type="text" name="name" placeholder="Name" /></div>
+									<div class="6u$ 12u$(mobile)"><input type="text" name="email" placeholder="Email" /></div>
+									<div class="12u$">
+										<textarea name="message" placeholder="Message"></textarea>
+									</div>
+									<div class="12u$">
+										<input type="submit" value="Send Message" />
+									</div>
+								</div>
+							</form>
+
+						</div>
+					</section>
+
+			</div>
+
+		
+			<div id="footer">
+
+				
+					<ul class="copyright">
+						<li>&copy; 2017</li><li>Hak4Kidz. All rights reserved.</li>
+					</ul>
+
+			</div>
+
+		
+			<script src="/js/jquery.min.js"></script>
+			<script src="/js/jquery.scrolly.min.js"></script>
+			<script src="/js/jquery.scrollzer.min.js"></script>
+			<script src="/js/skel.min.js"></script>
+			<script src="/js/util.js"></script>
+			
+			<script src="/js/main.js"></script>
+
+	</body>
+</html>

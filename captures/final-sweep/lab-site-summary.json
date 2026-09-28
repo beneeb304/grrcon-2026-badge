@@ -1,0 +1,35 @@
+{
+  "name": "lab-site",
+  "url": "https://h4klab.github.io/",
+  "final": "https://h4klab.github.io/",
+  "status": 404,
+  "headers": {
+    "Connection": "close",
+    "Content-Length": "9115",
+    "Server": "GitHub.com",
+    "Content-Type": "text/html; charset=utf-8",
+    "ETag": "\"6aac0af2-239b\"",
+    "Content-Security-Policy": "default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'",
+    "X-GitHub-Request-Id": "220A:301E95:2731E62:2B01A4E:6AB891B3",
+    "x-github-edge-region": "iad",
+    "Accept-Ranges": "bytes",
+    "Age": "0",
+    "Date": "Sun, 27 Sep 2026 03:47:00 GMT",
+    "Via": "1.1 varnish",
+    "X-Served-By": "cache-chi-klot8100080-CHI",
+    "X-Cache": "MISS",
+    "X-Cache-Hits": "0",
+    "X-Timer": "S1790480821.538246,VS0,VE36",
+    "Vary": "Accept-Encoding",
+    "X-Fastly-Request-ID": "75c5fb863ef5ef965c71ccd05086fa956860aad5"
+  },
+  "size": 9115,
+  "links": [
+    "https://help.github.com/pages/",
+    "https://githubstatus.com",
+    "https://twitter.com/githubstatus",
+    "/",
+    "/"
+  ],
+  "comments": []
+}
