@@ -10,7 +10,7 @@ Source: two matching read-only ATtiny1616 flash captures and two matching EEPROM
 - The Sentinel code prints the test/watch messages and enters an LED/watch loop around `0x164a`. After those banner messages there are no further direct UART-print calls in that loop's block. A shared input handler is still called while the loop runs.
 - Both Sentinel and normal LED loops call the same handler at `0x1270`, which calls `0x0d24`. That handler reads digital pin 10, mapped to PC0. This accounts for PC0 launching the Rick Astley challenge in either mode.
 - The challenge prints `System shutdown`, sets a RAM flag, then returns at `0x126e`. It does not actually halt or remove power. The user's observation that PC0 can retrigger the challenge without a power cycle agrees with this.
-- The firmware contains one plain-text `rick astley` answer literal and the two previously observed bit.ly links. No other plain-text prompt or URL was found in the captured flash.
+- The firmware contains one plain-text `rick astley` answer literal, the two previously observed bit.ly links, and the Hak4Kidz homepage. No other plain-text challenge prompt or destination was found in the captured flash.
 
 ## Sentinel, SW1, and LED patterns
 
@@ -25,7 +25,7 @@ Source: two matching read-only ATtiny1616 flash captures and two matching EEPROM
 - All seven direct calls to the firmware's digital-read routine (`0x072a`) pass software pin 13 (SW1) or software pin 10 (PC0). No third directly polled digital input appears in the disassembly.
 - All six direct calls to the EEPROM write helper (`0x059c`) are in the startup block at `0x1540`–`0x1584`, writing the six fixed marker bytes if the initial comparison fails. This provides no evidence of EEPROM-based challenge progression or an unlock value to set.
 - The populated interrupt vectors lead to timer bookkeeping at `0x1340` and a generic port callback dispatcher at `0x139e`–`0x143c`. Neither block directly prints a challenge message or tests the EEPROM marker. The callback mechanism and other indirect calls mean this is a practical path audit, not a formal proof that no hidden path exists.
-- The captured flash's readable data area at `0x242d`–`0x2941` contains the observed UART banners, both bit.ly URLs, the answer text, and Sentinel messages. No third readable URL, instruction, or answer was found there.
+- The captured flash's readable data area at `0x242d`–`0x2941` contains the observed UART banners, both bit.ly URLs, the Hak4Kidz homepage, the answer text, and Sentinel messages. No further readable challenge destination, instruction, or answer was found there.
 
 ## What this does not establish
 
