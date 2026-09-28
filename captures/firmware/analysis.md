@@ -20,6 +20,13 @@ Source: two matching read-only ATtiny1616 flash captures and two matching EEPROM
 - The same shared handler at `0x1270` polls SW1 and PC0 in both modes. It can transfer control from Sentinel's LED loop to the normal section at `0x1974` when it reports an event. The exact wake/sleep and transition sequence after a long hold has not been verified on hardware, so the observed LED change should not be described as a proven mode switch.
 - The short data region at `0x23ce`–`0x23e1` consists of indices 0–4 and the five LED pin numbers. Later bytes at `0x23e2`–`0x242c` contain small masks/indices and are followed immediately by ordinary text strings. They are not evidence of a prerecorded Sentinel message; the visible Sentinel LED code makes pseudorandom choices directly. Their full use outside Sentinel has not been established.
 
+## Follow-up trigger and state audit
+
+- All seven direct calls to the firmware's digital-read routine (`0x072a`) pass software pin 13 (SW1) or software pin 10 (PC0). No third directly polled digital input appears in the disassembly.
+- All six direct calls to the EEPROM write helper (`0x059c`) are in the startup block at `0x1540`–`0x1584`, writing the six fixed marker bytes if the initial comparison fails. This provides no evidence of EEPROM-based challenge progression or an unlock value to set.
+- The populated interrupt vectors lead to timer bookkeeping at `0x1340` and a generic port callback dispatcher at `0x139e`–`0x143c`. Neither block directly prints a challenge message or tests the EEPROM marker. The callback mechanism and other indirect calls mean this is a practical path audit, not a formal proof that no hidden path exists.
+- The captured flash's readable data area at `0x242d`–`0x2941` contains the observed UART banners, both bit.ly URLs, the answer text, and Sentinel messages. No third readable URL, instruction, or answer was found there.
+
 ## What this does not establish
 
 This is not a proof that the badge has no other behavior. Indirect calls, timer-driven LED patterns, and encoded data have not been exhaustively ruled out. The current evidence gives Sentinel an ordinary role as a hardware self-test plus pseudorandom LED watch, rather than a demonstrated second challenge. No more soldering or button-guessing is needed to resolve the remaining static-analysis questions.
